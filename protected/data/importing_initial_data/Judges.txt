@@ -1,0 +1,20 @@
+Chap	Verse	Chap	Verse	StartWord	Heading	Entry	Author	Page	Page	ISBN/URL	Category	Depth
+0						"The Book of Judges, in its first chapters, turns to the problem of why Joshua was not able to drive out all the nations"	Polzin	148		816404569	Interpretation	4
+2	6					The narrative shifts back to the moment described in Josh 24:8 and beings a panoramic temporal overview of the entire period covered by the Book of Judges	Polzin	151		816404569	Form	5
+2	23					"The reference to Joshua's failure to complete the occupation is totally unexpected, and profoundly influences the significance of 1:1-2:22 on the one hand, and everything that follows on the other"	Polzin	152		816404569	Interpretation	5
+2	23					This verse reaches back and embraces the entire Book of Joshua even as it provides the evaluative background for the entire Book of Judges	Polzin	153		816404569	Interpretation	3
+3	19					Eglon's response is ironic	Polzin	157		816404569	Form	2
+3	24					The contrast between the servants' certainty and the obvious error of their judgment	Polzin	157		816404569	Form	2
+3	24	3	25			The shifts to imperfective verb-forms place the reader in the very center of the scene	Polzin	158		816404569	Form	3
+2	22					This explanation only makes sense if one assumes that the retributive nature of the Mosaic covenant still allows the guilty to go unpunished an the innocent to endure unmerited suffering	Polzin	159	160	816404569	Interpretation	3
+3	19					Ehud's decisive action begins when he turns away from the idols at Gilgal	Polzin	160		816404569	Interpretation	2
+3	26					Ehud's escape is successful when he passed the idols and fled to Seirah	Polzin	160		816404569	Interpretation	2
+4	1					The eighty years of peace mentioned in 3:30 are not to be construed as dependent upon any supposed repentance of Israel	Polzin	161		816404569	"Form, Interpretation"	5
+4	1	4	23			Alternation between synchronic narration and panchronic narration	Polzin	164	166	816404569	Form	5
+5	1		31			The song (5:1-31) continues the preceding chapters' role of engendering a feeling of confusion concerning the basic ideological positions of the preceding books	Polzin	167	168	816404569	"Form, Interpretation"	5
+6	1	9	57			The Gideon story depicts the excessive concern men exhibit who seek by signs and tests to insure the success of their ventures	Polzin	168		816404569	Form	5
+6	1	9	57			The story of Gideon portrays how Israel even in the very process of being delivered by Yahweh vacillates between allegiance to him and allegiance to another God	Polzin	169	171	816404569	"Form, Interpretation"	5
+7	14					"To the Midianite here, ""God"" refers to a deity, from the point of the view of the speaker, is not Yahweh himself"	Polzin	172		816404569	"Form, Interpretation"	4
+8	24	8	27			That Gideon and the Israelites continue to profess allegiance not only to Yahwah but to the worship of another is made clear by the incident of the golden ephod	Polzin	172	173	816404569	Interpretation	3
+9	1	9	57			There are no references at all to Yahweh in a chapter which clearly functions as a climax to the Gideon story	Polzin	173		816404569	Form	3
+9	1	9	57			"It is precisely here in the Abimelech story, where for the first time in the Book of Judges just retribution finally is accomplished, that both Israel and the narrator lose their distinctively Yahwistic identities"	Polzin	174	175	816404569	"Form, Interpretation"	4

@@ -1,0 +1,23 @@
+Chap	Verse	Chap	Verse	StartWord	Heading	Entry	Author	Page	Page	ISBN/URL	Category	Depth
+0						Attribution of utterances in Deuteronomy	Polzin	25		816404569	Form	1
+0						Deuteronomy emphasizes a distinction between the word of Moses and the word of the narrator	Polzin	29		816404569	Form	5
+0						The narrator's subtle but powerful claim to his audience to be the sole interpreter of Moses' words	Polzin	31		816404569	Form	3
+0						Frame-breakers as author's device	Polzin	40	41	816404569	"Form, Structure"	5
+1	6	4	40			The first address of Moses (1:6-4:40)	Polzin	36		816404569	Form	1
+1		4				"Switching back and forth between ""that day"" and ""this day"""	Polzin	32		816404569	Form	3
+1		4				The switch from direct to indirect speech in chapter 4	Polzin	40		816404569	Form	5
+4						Chapter 4 divides into two evaluative sections	Polzin	41		816404569	Structure	5
+0						The bracketing of utterances of mercy and grace with neutralizing statements of a retributive nature is a consistent pattern in the Book of Deuteronomy	Polzin	43		816404569	Form	2
+5	1	28	68			The second address of Moses (5:1b-28:68)	Polzin	43		816404569	Form	
+4	40					Two voices conjoined here in the final verse of Moses' first address	Polzin	43		816404569	Form	4
+0						Interplay of two voices essential to the semantic authority that unifies Deuteronomy and the entire Deuteronomic History	Polzin	43		816404569	Form	
+4	41	4	43			4:41-43 provides a concluding frame to Moses' first address	Polzin	43		816404569	"Form, Structure"	2
+4	44	5	1			"4:44-5:1a constitutes the introductory frame to Moses' second, main address"	Polzin	43		816404569	"Form, Structure"	2
+12	1	26	15			12:1-26:15 is the so called Deuteronomic law-code	Polzin	43		816404569	"Form, Structure"	1
+12	1	26	15			The lawcode of chapters 12-26 has Moses both reporting and interpreting God's words	Polzin	57		816404569	Form	5
+5	1	5	5			"Alternation between ""I vs. you"" and ""our/us"""	Polzin	45		816404569	Form	5
+5	1	11	32			5:1-11:32 and 26:16-28:68 are Mosaic utterances that frame the lawcode	Polzin	47		816404569	Structure	5
+26	16	28	68			5:1-11:32 and 26:16-28:68 are Mosaic utterances that frame the lawcode	Polzin	47		816404569	Structure	5
+5	1	11	32			5:1-11:32 and 26:16-28:68 contain far fewer quotations of God in direct discourse than the first address	Polzin	47		816404569	Form	2
+26	16	28	68			5:1-11:32 and 26:16-28:68 contain far fewer quotations of God in direct discourse than the first address	Polzin	47		816404569	Form	2
+0						The over-all composition of Deuteronomy is one in which we read how Moses is described as declaring and interpreting the word of God as a panoramic preview of how the Deuteronomic narrator will describe and interpret the word of Moses in Joshua-2 Kings	Polzin	48		816404569	"Form, Structure"	3

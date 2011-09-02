@@ -1,0 +1,48 @@
+Chap	Verse	Chap	Verse	StartWord	Heading	Entry	Author	Page	Page	ISBN/URL	Category	Depth
+0						Attribution of utterances in Deuteronomy	Polzin	25		816404569	Form	1
+0						Deuteronomy emphasizes a distinction between the word of Moses and the word of the narrator	Polzin	29		816404569	Form	5
+0						The narrator's subtle but powerful claim to his audience to be the sole interpreter of Moses' words	Polzin	31		816404569	Form	3
+0						Frame-breakers as author's device	Polzin	40	41	816404569	"Form, Structure"	5
+1	6	4	40			The first address of Moses (1:6-4:40)	Polzin	36		816404569	Form	1
+1		4				"Switching back and forth between ""that day"" and ""this day"""	Polzin	32		816404569	Form	3
+1		4				The switch from direct to indirect speech in chapter 4	Polzin	40		816404569	Form	5
+4						Chapter 4 divides into two evaluative sections	Polzin	41		816404569	Structure	5
+0						The bracketing of utterances of mercy and grace with neutralizing statements of a retributive nature is a consistent pattern in the Book of Deuteronomy	Polzin	43		816404569	Form	2
+5	1	28	68			The second address of Moses (5:1b-28:68)	Polzin	43		816404569	Form
+4	40					Two voices conjoined here in the final verse of Moses' first address	Polzin	43		816404569	Form	4
+0						Interplay of two voices essential to the semantic authority that unifies Deuteronomy and the entire Deuteronomic History	Polzin	43		816404569	Form
+4	41	4	43			4:41-43 provides a concluding frame to Moses' first address	Polzin	43		816404569	"Form, Structure"	2
+4	44	5	1			"4:44-5:1a constitutes the introductory frame to Moses' second, main address"	Polzin	43		816404569	"Form, Structure"	2
+12	1	26	15			12:1-26:15 is the so called Deuteronomic law-code	Polzin	43		816404569	"Form, Structure"	1
+12	1	26	15			The lawcode of chapters 12-26 has Moses both reporting and interpreting God's words	Polzin	57		816404569	Form	5
+5	1	5	5			"Alternation between ""I vs. you"" and ""our/us"""	Polzin	45		816404569	Form	5
+5	1	11	32			5:1-11:32 and 26:16-28:68 are Mosaic utterances that frame the lawcode	Polzin	47		816404569	Structure	5
+26	16	28	68			5:1-11:32 and 26:16-28:68 are Mosaic utterances that frame the lawcode	Polzin	47		816404569	Structure	5
+5	1	11	32			5:1-11:32 and 26:16-28:68 contain far fewer quotations of God in direct discourse than the first address	Polzin	47		816404569	Form	2
+26	16	28	68			5:1-11:32 and 26:16-28:68 contain far fewer quotations of God in direct discourse than the first address	Polzin	47		816404569	Form	2
+0						The over-all composition of Deuteronomy is one in which we read how Moses is described as declaring and interpreting the word of God as a panoramic preview of how the Deuteronomic narrator will describe and interpret the word of Moses in Joshua-2 Kings	Polzin	48		816404569	"Form, Structure"	3
+5	1	11	32			"The lawcode overwhelmingly prfers the ""I vs. you"" form"	Polzin	49		816404569	Form	2
+5	1	28	68			The predominant psychological viewpoint of the second address is set up by the content of chapter 5	Polzin	49		816404569	Form	4
+5	1	28	68			The second address's temporal composition is predominantly future-oriented	Polzin	49		816404569	Form	4
+5	1	28	68			Paradox concerning Moses' status in the second address	Polzin	50	52	816404569	Form	5
+1		11				Moses' words before chapter 12 comprise what Moses said to prepare the people to hear the word of God contained within the lawcode	Polzin	51		816404569	Structure	1
+27		34				Moses' words after chapter 26 comprise what Moses said to spell out form them the implications of the word of God contained within the lawcode	Polzin	51		816404569	Structure	1
+5	21	5	31			"5:21-31 comprises Moses' account of how God commissioned him to speak the central words of the book, the ""Mosaic"" lawcode of chapters 12-26"	Polzin	51		816404569	Structure	1
+5	28	5	31			5:28-31 are the authenticating words of God that show the basis for the unique teaching role Moses enjoys in the Book of Deuteronomy	Polzin	51		816404569	Structure	1
+5						Deuteronomy 5 contains Moses' account of the vision that authenticates the central role he plays in the book	Polzin	51		816404569	Structure	1
+5	1	28	68			Utterances advancing Israel's unique status are also abundantly present in the second address	Polzin	51		816404569	Form	2
+9	4	9	5			Challenge to the many utterances about Israel's unique status	Polzin	52		816404569	Form	3
+18	17	18	18			Direct challenge to Moses' unique stats as teacher of Israel	Polzin	52		816404569	Form	3
+12	32					"What Moses could do with God's word, man may not do with Moses' word, which itself has become indistinguishable from God's word"	Polzin	59		816404569	"Form, Interpretation"	5
+18	16	18	19			"Compare with 5:23-31. Moses appeals to the same occasion and to the same divine utterance to authenticate both his own prophetic role and that of ""a prophet like him."""	Polzin	60	61	816404569	"Form, Interpretation"	4
+12	32					The command of this verse is a hermeneutic anomaly within Deuteronomy	Polzin	63	64	816404569	Form	5
+29	1	31	6			The third address of Moses (29:1-31:6)	Polzin	69		816404569	Form	1
+31	1					Frame-breakers as author's device	Polzin	69		816404569	Form	2
+29	1	31	6			This third address concentrates on a far distant future that is explicitly exilic	Polzin	69		816404569	Form	3
+29	1	31	6			It is extremely difficult to distinguish between the voice of Moses and the voice of the narrator	Polzin	70		816404569	Form	2
+29	1	31	6			The emphasis is on what Israel has to do to regain the land (as opposed to remain in the land)	Polzin	70		816404569	Form	2
+29	1	31	6			"In the third address, ""your fathers"" refers to those Israelites who had lived in the land from the occupation to the fall of Jerusalem"	Polzin	70	71	816404569	Form	2
+31	7	33	29			The collection of Moses' final sayings (31:7-33:29)	Polzin	71		816404569	Form	1
+31	7	33	29			"The distinction between the ""then"" of the hero and the ""now"" of the narrator, which had begun to dissolve in the last section, now undergoes additional dissolution"	Polzin	71		816404569	Form	3
+34	5					"The final composition irony of the book is that the Deuteronmist uses the basic device of ""reported word of God → account of its precise fulfillment"" against Moses himself"	Polzin	71	72	816404569	Form	3
+29	4					"Moses is referring to thhe lack of faith, mistrust, and disobedience of Israel already discussed in Deut 9-10"	Polzin	119		816404569	"Form, Interpretation"	2

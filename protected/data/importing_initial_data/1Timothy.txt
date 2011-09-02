@@ -1,0 +1,2 @@
+Chap	Verse	Chap	Verse	StartWord	Heading	Entry	Author	Page	Page	ISBN/URL	Category	Depth
+3	16					"Contrast between the ""fleshly"" and ""pneumatic"" modes of Christ's being"	Schnackenberg	268		824503112	"Form, Interpretation"	1

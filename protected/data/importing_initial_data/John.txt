@@ -1,0 +1,414 @@
+Chap	Verse	Chap	Verse	StartWord	Heading	Entry	Author	Page	Page	ISBN/URL	Category	Depth
+1	1	1	18			The links between the prologue and the rest of the Gospel	Schnackenberg	221	224	824503112	Form	5
+1	1	1	18			"The prologue has the character of an ""opening narrative"""	Schnackenberg	224		824503112	Form	5
+1	1	1	18		The Logos-Hymn	Reasons for identifying a Logos-Hymn	Schnackenberg	225	226	824503112	"Form, Style"	5
+1	1	1	18		The Logos-Hymn	Reconstructing the Logos-Hymn	Schnackenberg	226	227	824503112	"Structure, Redaction"	5
+1	1	1	18		The Logos-Hymn	Special character of the hymn not found in other Christian primitive hymns	Schnackenberg	228		824503112	Form	2
+1	1	1	18		The Logos-Hymn	Origin and background to the Logos-Hymn	Schnackenberg	229	232	824503112	Source
+1	1	1	18		The Logos-Hymn	Other hymns and Christological affirmations: Phil 2:6; Col 1:15; Heb 1:3	Schnackenberg	232		824503112	Cf	1
+1	1			1	"""In the beginning"""	Reference to Gen 1:1 but also means more than the account of creation; precedence overall all creation	Schnackenberg	232		824503112	Interpretation	2
+1	1			3	"""was"""	"The logos was not created, but already existed absolutely, timeless and eternal"	Schnackenberg	232	233	824503112	Interpretation	4
+1	1			3		Jn 8:58					Cf
+1	1			6	"""the Word was with God"""	Personal character of the Logos	Schnackenberg	233		824503112	Interpretation	2
+1	1			6	"""the Word was with God"""	"Jn 10:30; 17:5, 10; 1Jn 1:2"					Cf
+1	1			6	"""the Word was with God"""	Personal union of the Logos with God	Schnackenberg	233		824503112	Interpretation	2
+1	1			10	"""with"""	"Does not here mean movement, but is the equivalent of παρὰ τῷ θεῷ"	Schnackenberg	234		824503112	Semantics	4
+1	1			10	"""with"""	"The active partnership is also a personal union, and the proximity also implies reciprocal indwelling"	Schnackenberg	234		824503112	Interpretation	1
+1	1					"The primordial eternal being of the Logos is an existence which proceeds from God and his love, and is filled with the life of God and shares in his glory"	Schnackenberg	234		824503112	Interpretation	1
+1	1			13	"""the Word was God"""	Climactic statement about the Logos	Schnackenberg			824503112	"Structure, Interpretation"	2
+1	1			14	"""God"" (θεός)"	"Not a genus, but signifies the nature proper to God and the Logos in common"	Schnackenberg	234		824503112	Interpretation	2
+1	1			14	"""God"" (θεός)"	Predicate	Schnackenberg	234		824503112	Syntax	1
+1	1			5	"""Word"""	Comparison with the meaning of Logos in Wisdom literature and Philo	Schnackenberg	235		824503112	Interpretation	5
+1	2			1	οὗτος	A mark of the evangelist's own style	Schnackenberg	236		824503112	Style	1
+1	2					"Jn 8:42; 13:3; 16:27, 28, 30; 17:8, 24; 1Jn 1:2"					cf
+1	3			2	"""through"" (διά)"	Interpreting the Logo's creative activity as expressed by διά	Schnackenberg	236	237	824503112	Interpretation	5
+1	3					"Rom 11:36; Phil 2:6, 11; Col 1:16; Heb 1:2, 10"					cf
+1	3			1	"""all"""	Cannot be restricted to the world of man	Schnackenberg	238		824503112	Interpretation	2
+1	3			1	"""all"""	"οὐδὲ ἕν (""not one"") as its counterpart"	Schnackenberg	238		824503112	Form	2
+1	3			11	ὃ γέγονεν	Discussion on which sentence this should belong to	Schnackenberg	239	240	824503112	"Text, Syntax, Interpretation"	5
+1	4					"Jn 5:26; 8:12; 9:5; 12:35, 36; 46"					cf
+1	4					"The Logos is to fill men with the divinely spiritual life, the life which distinguishes them from the rest of creation and consists both of their knowledge of their godlike nature and of a blessed union with God in holiness of conduct"	Schnackenberg	241	242	824503112	Interpretation	5
+1	4			4	"""was"""	"Just as divine life ""was' in him without any restriction of time, so too he ""was"" in the divine plan always the light of men"	Schnackenberg	242		824503112	Interpretation	2
+1	4					Life and light in Hellenistic mysticism and Gnosis	Schnackenberg	242	244	824503112	Source	5
+1	4					Light and eschatological salvation	Schnackenberg	244		824503112	Interpretation	3
+1	5					The evangelist's meditation in v. 5 extends to take in the present time	Schnackenberg	245		824503112	"Syntax, Interpretation"	4
+1	5				"""darkness"""	"""Darkness"" in John means primarily the world estranged from God"	Schnackenberg	245	246	824503112	"Word, Topic"	2
+1	5					"Jn 1:9; 3:19; 8:12; 9:39; 12:35, 36, 40, 46; 1Jn 1:6-7; 2:8-11"					cf
+1	5			5		"Comparison with the concept of ""darkness"" in the Qumran texts"	Schnackenberg	246		824503112	Interpretation	5
+1	5			13	"""comprehend"""	"""grasp"" is preferred to ""master"""	Schnackenberg	246	247	824503112	"Semantics, Syntax, Interpretation"	5
+1	5					The tenses of the verbs are deliberate	Schnackenberg	247		824503112	"Syntax, Interpretation"	4
+1	5				"""light"" and ""darkness"""	"The contrast of ""light"" in ""darkness"" in John as opposed to Gnostic and Jewish literature"	Schnackenberg	247	249	824503112	Topic	4
+1	6	1	8			1:6-8 is the evangelist's interpolation. It is also proved secondary by its rhythm and prosaic style	Schnackenberg	250	251	824503112	"Form, Redaction, Style"	1
+1	6			1	Ἐγένετο	"In contrast with ἦν, implies an appearance at a given moment of history"	Schnackenberg	250		824503112	"Form, Semantics"	1
+1	6			6	"""Whose name was John"""	The name of John is added solemnly and reverently	Schnackenberg	250		824503112	Form	2
+1	7					"Jn 1:19-28, 31, 35, 36"					cf
+1	7					The evangelist's purpose in his evaluation of the Baptist	Schnackenberg	251		824503112	"Historical, Interpretation"	5
+1	7				"""witness"""	"The term stands out most strongly in the fourth Gospel, and there it occurs in the service of faith"	Schnackenberg	251		824503112	"Word, Topic"	2
+1	6	1	7			"The transition to historical narrative (v. 6) shows beyond doubt that the evangelist understands the ""light"" in v. 7 as the incarnate Logos"	Schnackenberg	251		824503112	Form	1
+1	7			12	"""believe"""	"Where ""πιστεύειν"" is used absolutely, faith in Jesus is meant"	Schnackenberg	252		824503112	"Word, Topic"	2
+1	7			11	"""all"""	"πάντες is not emphasized, but it shows the universal salvific will of God (cf. 3:15-17)"	Schnackenberg	252		824503112	"Word, Interpretation"	1
+1	8					"This verse is directed against an over-estimation of the Baptist, but may also have been chosen merely on account of the context"	Schnackenberg	252	253	824503112	"Historical, Interpretation"	2
+1	9				"""That was the true light"""	"""He was the true light which enlightens every man,"" explicates the ""light of men"" in v. 4."	Schnackenberg	253		824503112	Interpretation	1
+1	9				"""That was the true light"""	"The ""illumination"" given by the Logos must have primarily envisaged the knowledge and the choice of good conduct in keeping with man's situation and the will of God--""walking in the light"", which leads finally to the full light and salvation of God"	Schnackenberg	253		824503112	Interpretation	3
+1	9				"""That was the true light"""	Logos possessed the power to illuminate before his earthly existence	Schnackenberg	253		824503112	Interpretation	2
+1	9			5	"""true"""	"""Genuineness""; fullness of being and reality in God"	Schnackenberg	253	254	824503112	"Semantics, Word"
+1	9			10	"""coming"""	The Logo's illumination has been bestowed in a special manner since the Incarnation on those who believe in him	Schnackenberg	254		824503112	Interpretation	2
+1	9			10	ἐρχόμενον	Grammatical possibilities and their difficulties	Schnackenberg	254	255	824503112	"Syntax, Interpretation"	5
+1	10	1	11			A new strophe in the original hymn; a new thought: the rejection of the Logos by the world	Schnackenberg	255		824503112	Structure	2
+1	10			3	"""world"""	"The world as the dwelling place of man; ""the world of man""; ""humanity"""	Schnackenberg	255		824503112	Interpretation	3
+1	10			11	"""and the world did not know Him"""	The brutal and shattering fact which the hymn signals in a few words	Schnackenberg	255		824503112	Interpretation	1
+1	10			7	"""world"""	"v. 10b uses ""world"" in a different sense from 10a and 10c"	Schnackenberg	256		824503112	Interpretation	5
+1	10			1	"""He was in the world"""	"The hymn must have been thinking of the presence of the Logos in the world before the Incarnation, as indicated by ἦν"	Schnackenberg	256		824503112	"Form, Interpretation"	5
+1	10			11	"""and the world did not know Him"""	Comparison with the same experience ascribed to Wisdom in Jewish writings	Schnackenberg	257		824503112	Interpretation	5
+1	10					The evangelist undoubtedly referred the verse to the incarnate Logos	Schnackenberg	258		824503112	Interpretation	3
+1	10			5	"""and the world was made through Him"""	Possible explanations for the evangelist's interjection of v. 10b	Schnackenberg	258		824503112	Interpretation	4
+1	11			4	"""He came"""	The aorist ἦλθεν reflects the fact that the encounter between the Logos and the world took place in the reality of history	Schnackenberg	258		824503112	"Syntax, Interpretation"	2
+1	11					Comparison with Gnostic and Wisdom literature	Schnackenberg	259		824503112	Historical	5
+1	11					The whole train of thought transposed on the Christian level	Schnackenberg	259		824503112	Interpretation	4
+1	11			1	"""to His own"""	"Means to his domain or property; ""those belonging to someone"""	Schnackenberg	259		824503112	Semantics	2
+1	11			1	"""to His own"""	"""Domain"": Ezra 5:47 LXX; Lk 18:28; Jn 8:44"	Schnackenberg	259		824503112	"cf, Word"
+1	11					"The world is the domain of the Logos; hence it is all the more saddening that ""his own"" did not accept him"	Schnackenberg	259		824503112	Interpretation	3
+1	11			6	"""His own"""	All men are envisaged in ἴδιοι. The evangelist also uses the word in the strict sense (13:1...)	Schnackenberg	260		824503112	"Semantics, Interpretation"	4
+1	11			10	"""receive"""	Probably from the metaphor of welcoming to a house or has perhaps the more general sense of accepting as partner	Schnackenberg	260		824503112	"Semantics, Interpretation"	1
+1	11			6	"""τὰ ἴδια"" and ""οἱ ἴδιοι"""	"It is quite possible that at τὰ ἴδια the evangelist thought of the people who were God's ""own possession"" and at οἱ ἴδιοι of the Jews of the day who as members of this people incomprehensibly rejected the eschatological saviour. He too could have thought of men in general as the ἴδιοι."	Schnackenberg	260	261	824503112	Interpretation	4
+1	12					"This is in keeping with the evangelist's way of seeing things black and white, and contrasting negative and positive statements (cf. 12:37-43; 3:32, 33)"	Schnackenberg	261		824503112	Form	2
+1	12					The expression λαμβάνειν τινά is a characteristic of Johannine style	Schnackenberg	261		824503112	Form	2
+1	12					Contrast with Gnosticism	Schnackenberg	261		824503112		3
+1	12			7	"""authority"""	Lays stress on the power conferred by God. How this comes about is through baptism	Schnackenberg	262		824503112	Interpretation	2
+1	12			10	"""become"""	"John never speaks of ""becoming"" in the moral sense"	Schnackenberg	262		824503112	Interpretation	2
+1	12			11	"""to those who believe"""	The dative participle after αὐτοῖς. See a similar construction in 1Jn 5:13	Schnackenberg	262		824503112	"Syntax, cf"	1
+1	12					"Faith is the basic prerequisite for salvation, and in Johannine theology the one condition which contains all others"	Schnackenberg	262		824503112	Interpretation	1
+1	12			12	"""believe in His name"""	"This is expression is exclusively Johannine (cf. Jn 2:23; 3:18; 1Jn 3:23; 5:13), and implies the acceptance of Jesus to the full extent of his self-revelation"	Schnackenberg	263		824503112	"Topic, cf, Interpretation"	2
+1	13					Verse 13 explains how to become children of God	Schnackenberg	263		824503112	Interpretation	5
+1	13					The three negatives exclude all natural factors	Schnackenberg	263		824503112	"Form, Interpretation"	2
+1	13			9	"""nor of the will of man"""	Two MSS and many patristic quotations omit this phrase	Schnackenberg	263		824503112	Text	1
+1	13					Other variants on this verse	Schnackenberg	263		824503112	Text	4
+1	13					"Being born of God as being superior to the ""world"" (cf. 1Jn 4:4; 5:4)"	Schnackenberg	263		824503112	"Interpretation, cf"	3
+1	13					"The birth from God is an act (note the aorist) of divine heavenly origin (cf. Jn 3:3, 6, 8)"	Schnackenberg	264		824503112	"Syntax, Interpretation, cf"	1
+1	13					The Christian reader cannot but think of baptism (cf. 3:5)	Schnackenberg	264		824503112	"Interpretation, cf"	1
+1	13			1		On the variant ὃς ... ἐγεννήθη	Schnackenberg	264	265	824503112	Text	5
+1	14					This is the climax of the Logos-hymn	Schnackenberg	266		824503112	Form	1
+1	14			1	"""And"""	"καί indicates something new, a stage of historical progress"	Schnackenberg	266		824503112	Form	2
+1	14			5	"""became"""	ἐγένετο indicates a real event. It announces a change in the mode of being of the Logos	Schnackenberg	266	267	824503112	"Form, Interpretation"	5
+1	14					"The Logos ""becoming flesh"" marks a turning-point in the history of salvation "	Schnackenberg	267		824503112	Interpretation	5
+1	14			4	"""flesh"""	σάρξ indicates full human reality	Schnackenberg	267	268	824503112	Interpretation
+1	14			4	"""flesh"""	The anti-Gnostic tone is unmistakable	Schnackenberg	268		824503112	Interpretation	2
+1	14					The Christian teaching on the Son of God made man can only be understood as a protest against all other religions of redemption in Hellenism and Gnosticism	Schnackenberg	268		824503112	Interpretation	3
+1	14			7	"""dwelt among us"""	This mode of presence surpasses everything that could have been said about Wisdom	Schnackenberg	269		824503112	Interpretation	2
+1	14			7	"""dwelt among us"""	Yahweh's dwelling in the sanctuary and the glory that filled the tabernable	Schnackenberg	269	270	824503112	Source	5
+1	14			10	"""and we beheld His glory"""	"The evangelist and his fellow-witnesses experienced the divine majesty of Jesus in his works, particularly the ""signs"""	Schnackenberg	270		824503112	Interpretation	3
+1	14			10	"""and we beheld His glory"""	"Jn 1:50, 51; 2:11; 11:40; 1Jn 1:1-3"					cf
+1	14			17	"""only begotten"""	"μονογενής as an epithet for Christ is also a term proper to the evangelist (1:18; 3:16, 18; 1Jn 4:9)"	Schnackenberg	270		824503112	"cf, Word"	1
+1	14			16	"""as"""	"ὡς does not mark a restriction or make a comparison, but defines the glory precisely and indicates its exact nature"	Schnackenberg	270		824503112	"Semantics, Interpretation"
+1	14			17	"""only begotten"""	"μονογενής is probably based on the Hebrew יָחִיד, which can mean both ""unique, only-begotten"" and ""beloved"""	Schnackenberg	270	271	824503112	Semantics	1
+1	14			18	"""from"""	παρά should be taken with μονογενοῦς rather than with the remoter word δόξαν	Schnackenberg	271		824503112	Syntax	5
+1	14			17	"""only begotten"""	μονογενής in John undoubtedly goes back to the Hebrew	Schnackenberg	271	272	824503112	Source	4
+1	14			20	"""full of grace and truth"""	"It should be taken with the genitive μονογενοῦς, not with δόξαν"	Schnackenberg	272		824503112	Syntax	2
+1	14			20	"""full of grace and truth"""	The association of χάριτος καὶ ἀληθείας is well rooted in the OT	Schnackenberg	272	273	824503112	Topic	5
+1	14			21	"""grace and truth"""	Ex 34:6; 2Sam 2:6; Ps 25:10; 40:12; 61:8; 85:11; 89:15; 115:1; 138:2; Prov 3:3; 14:22	Schnackenberg	272		824503112	cf
+1	14			23	"""truth"""	"The evangelist probably took ἀλήθεια to mean ""divine reality"" in a more strongly ontological sense, as he understands ἀλήθεια in Jn 4:23, 24; 8:44; 14:6; 17:17; 18:37"	Schnackenberg	273		824503112	"Semantics, Interpretation, cf"	3
+1	15				"""bore witness"" and ""cried out"""	The present μαρτυρεῖ and the perfect κέκραγεν make the voice of the precursor audible in the present time	Schnackenberg	273		824503112	"Syntax, Interpretation"	3
+1	15					This interjection of the evangelist is determined by his polemic against disciples of John who were challenging Christianity in his day	Schnackenberg	274	275	824503112	Historical	5
+1	16					This verse is not part of the Baptist's words	Schnackenberg	275		824503112	"Text, Interpretation"	1
+1	16			1		"ὅτι, instead of καί, is to be preferred"	Schnackenberg	275		824503112	Text	2
+1	16			4	"""fullness"""	πλήρωμα has certainly nothing to do with Gnostic speculation on the pleroma	Schnackenberg	275		824503112	Interpretation	2
+1	16			4	"""fullness"""	"The Logos is the bearer of the fullness of divine salvation (cf. Jn 3:34; 5:26; 6:57; 7:38, 39)"	Schnackenberg	275		824503112	"Interpretation, cf"	1
+1	16			4	"""fullness"""	"One is reminded of the quite ordinary expression in the O.T., ""the fullness""--of God's grace, Ps 5:8, of his graces, Ps 106:45, of his mercy, Ps 51:3; 69:17"	Schnackenberg	275		824503112	cf	1
+1	16			4	"""fullness"""	"John, however, is not thinking of the superabundant mercy of God. He also means the riches of divine life which the Logos receives from the Father (Jn 5:26) and from which he enriches his own (Jn 10:10)"	Schnackenberg	275		824503112	"cf, Interpretation"	1
+1	16			9	"""and"""	"καί as an explanation: ""(that is to say) grace upon grace"""	Schnackenberg	275		824503112	"Syntax, Interpretation"	1
+1	16			11	"""for"""	Perhaps ἀντί also indicates the correspondence between the grace possessed by the Logos and that of those who receive him	Schnackenberg	276		824503112	"Syntax, Interpretation"	2
+1	16			6	"""we have all received"""	This is the jubilant confession of all who have receive Christ in faith (cf. Jn 1:12)	Schnackenberg	276		824503112	"Interpretation, cf"	2
+1	16					Contrast between the Gnostic way of salvation and the Christian faith	Schnackenberg	276		824503112	Interpretation	3
+1	17					The asyndeton is a characteristic of Johannine style	Schnackenberg	276		824503112	Style	2
+1	17			13	"""Jesus Christ"""	"The mention of Jesus Christ without previous introduction is characteristic of Johannine style (Jn 17:3; 1Jn 1:3; 2:1; 3:23; 4:2, 15; 5:6, 20)"	Schnackenberg	276		824503112	"Style, cf"	1
+1	17					V. 17 contains a new thought of which there was no hint throughout the hymn	Schnackenberg	276		824503112	Form	2
+1	17			15	"""came"""	ἐγένετο is characteristic of John	Schnackenberg	277		824503112	Style	1
+1	17			2	"""the law was given through Moses"""	The Johannine thought regarding the law and Moses	Schnackenberg	277		824503112	Interpretation	5
+1	17					"The law was only ""given"" by Moses, while grace and truth ""came"" through Jesus Christ"	Schnackenberg	277		824503112	"Form, Interpretation"	3
+1	18			1	"""No one has ever seen God at any time"""	"Jn 5:37; 6:46; 1Jn 4:12, 20"					cf
+1	18			5	"""only begotten"""	μονογενής and the additional ἐκεῖνος are features of the evangelist's style	Schnackenberg	278		824503112	Style	1
+1	18					"The only-begotten Son alone could speak of heavenly things from his own experience (cf. Jn 3:31, 32)"	Schnackenberg	278		824503112	Interpretation	3
+1	18			1	"""No one has ever seen God at any time"""	Anti-Gnostic polemics	Schnackenberg	278		824503112	"Interpretation, Historical"	4
+1	18			15	"""declared"""	"The term must mean speaking of things hidden in God, tidings of the divine glory"	Schnackenberg	279		824503112	Interpretation	1
+1	18			15	"""declared"""	It is concerned with salvific revelation	Schnackenberg	279		824503112	Interpretation	1
+1	18			15	"""declared"""	ἐξηγεῖσθαι in pagan Hellenism and Josephus	Schnackenberg	279		824503112	"Semantics, Historical"	3
+1	18					Boismard's textual criticism on this verse	Schnackenberg	279		824503112	Text	4
+1	18			6	"""Son"""	Textual criticism: θεός or ὑιός	Schnackenberg	279		824503112	Text	4
+1	18					"At the end of his prologue, the evangelist affirms once more the full divine dignity of the Son of God on earth, and also his unique capacity as revealer"	Schnackenberg	280		824503112	Form	1
+1	18					This verse forms a link between the hymn to the Logos and the presentation of the Gospel	Schnackenberg	280		824503112	Form	1
+						Jn 3:32					cf
+1	18			7	"""who is in the bosom of the Father"""	Meaning of this metaphorical expression	Schnackenberg	280	281	824503112	"Semantics, Historical, cf"	5
+1	1					Ecc 8:4; Heb 1:2					cf
+1	19					ἀπέστειλαν is a first aorist liquid verb					Syntax
+1	18	1	51			Structure of 1:18-51: 1. Testimony before official Judaism (1:18-28); 2. Testimony before Israel (1:29-34); winning of the first disciples to Jesus (1:35-51)	Schnackenberg	285		824503112	Structure	4
+1	19	1	28			"1:19-28 is divided into two parts: 1) the Baptist interrogated by the priests and Levites as to the Messianic significance of his person (vv. 19-23); 2) the question as to the meaning of his baptism, put by Pharisees (vv. 24-27)"	Schnackenberg	286		824503112	Structure	2
+1	19			1	"""And this is the testimony"""	"""Witnessing"" is indispensable in the Johannine notion of faith (Jn 5:31-37; 8:14, 17, 18)"	Schnackenberg	286		824503112	"Word, Topic, cf"	4
+1	19			9	"""the Jews sent priests and Levites from Jerusalem"""	"The envoys come from the central authority of the Jews, the Sanhedrin"	Schnackenberg	286		824503112	Historical	3
+1	19			9	"""the Jews"""	"Various connotations for ""the Jews"" in John"	Schnackenberg	287		824503112	"Word, Topic, Interpretation, Historical"	5
+1	19					Mk 11:29-33					cf
+1	19			22	"""Who are you?"""	Question as to his person (cf. Jn 8:25; 10:24)	Schnackenberg	288		824503112	cf	2
+1	20					Possible political motivations behind the envoys' question (cf. Jn 11:48)	Schnackenberg	288		824503112	"cf, Historical"	2
+						Lk 3:15					cf
+1	20			1	"""He confessed, and did not deny, but confessed"""	The pleonastic and emphatic expression and its bearing on contemporary disciples of John (cf. Jn 1:8)	Schnackenberg	288		824503112	"cf, Historical"	2
+1	20			9		The meaning of the emphatic ἐγώ	Schnackenberg	288		824503112	"Syntax, Interpretation"	2
+1	21			7	"""Elijah"""	The contemporary expectation of Elijah's return	Schnackenberg	289		824503112	Historical	3
+1	21			7	"""Elijah"""	"Mal 3:1, 23"					cf
+1	21			7	"""Elijah"""	Here John is closer to the Lukan tradition (cf. Mk 9:13; Mt 11:14; 17:12; Lk 1:17)	Schnackenberg	289		824503112	"Interpretation, cf"	4
+1	21			13	"""the Prophet"""	"Jn 1:25; 6:14; 7:40, 52; Mk 6:15; 8:28; Deut 18:15, 18"					cf
+1	21			13	"""the Prophet"""	"Tracing the expectation of ""the prophet"""	Schnackenberg	289	290	824503112	"Interpretation, Historical"	5
+1	22			6	"""That we may give an answer"""	Another sign of the official character of the interrogation	Schnackenberg	291		824503112	"Form, Interpretation"	1
+1	23					Isa 43					cf
+1	23			8	"""Make straight"""	John differs from the Synoptics by giving εὐθύνατε instead of ἑτοιμάσατε	Schnackenberg	291		824503112	Text	3
+1	23			3	"""in the desert"""	"Goes with ""the voice of one calling,"" as in the Synoptics, Septuagint, Vulgate, Targum and Peshitta of Isa 40:3, and not with the next words of Isaiah, as in the Masoretes"	Schnackenberg	291		824503112	Text	1
+1	23			3	"""in the desert"""	The theological importance of the desert in the history of salvation	Schnackenberg	291		824503112	Interpretation	1
+1	23			3	"""in the desert"""	In contrast with the understanding of the Essenes	Schnackenberg	291		824503112	"Historical, Interpretation"	3
+1	24			4	"""from"""	The partitive ἐκ is part of the Johannine style	Schnackenberg	292		824503112	Style	2
+1	24			5	"""the Pharisees"""	Background on the Pharisees	Schnackenberg	292	293	824503112	Historical	4
+1	25					"To the mind of the Pharisees, the baptism administered by John must have a Messianic meaning"	Schnackenberg	293		824503112	Interpretation	3
+1	25					The distinctive features of John's baptism	Schnackenberg	293		824503112	Historical	3
+1	26					John's baptism fades into insignificance beside his testimony	Schnackenberg	294		824503112	Interpretation	3
+1	26					Contrast between ἐγώ and ὑμεῖς	Schnackenberg	294		824503112	"Form, Interpretation"	2
+1	26			13	"""whom you do not know"""	These words are heavy with foreboding	Schnackenberg	294		824503112	Interpretation	3
+1	26					Estrangement from Jesus	Schnackenberg	294	295	824503112	"Topic, Interpretation"	4
+1	27					Immediate literary dependence on the Synoptics is excluded	Schnackenberg	295		824503112	Source	2
+1	28				"""Bethabara"""	The place name is trustworthy and is the original reading	Schnackenberg	295		824503112	"Historical, Text"	2
+1	28				"""Bethabara"""	The location of Bethany	Schnackenberg	296		824503112	Historical	5
+1	28			8	"""where John was baptizing"""	ἦν...βαπτίζων indicates a prolonged activity	Schnackenberg	296		824503112	Syntax	1
+1	29			1	"""The next day"""	The evangelist gives a date merely to indicate a change of scene and at the same time that the testimony of the Baptist contines	Schnackenberg	296	297	824503112	"Form, Interpretation"	2
+1	29			1	"""The next day"""	The enumeration of days begins here and runs to the marriage at Cana (cf. 1:35; 43; 2:1)	Schnackenberg	297		824503112	Form	2
+1	29			16	"""who takes away the sin of the world"""	Expiation of Jesus' death is meant (cf. 1Jn 1:7; 2:2; 3:5; 4:10; 5:6)	Schnackenberg	298		824503112	"Interpretation, cf"	5
+1	29			12	"""the Lamb of God"""	"The roots of the expression ""the Lamb of God"""	Schnackenberg	298	301	824503112	Interpretation	5
+1	30					"Refers to the statement about ""who comes after"" in v. 27"	Schnackenberg	301	302	824503112	"Interpretation, cf"	3
+1	31			9	"""Israel"""	"""Israel"" always has a good sense in John (cf. 1:50; 3:10; 12:13)"	Schnackenberg	303		824503112	"Interpretation, cf"
+1	32					Full and permanent possession of the Spirit is the distinctive characteristic of the Messiah (cf. Isa 9:2; 61:1)	Schnackenberg	303	304	824503112	"Interpretation, cf"	1
+1	32					Comparison with the Synoptics	Schnackenberg	304		824503112	cf	3
+1	33					God himself is behind John's testimony in two ways	Schnackenberg	304		824503112	Interpretation	2
+1	33			28	"""He who baptizes with the Holy Spirit"""	John's understanding of this expression	Schnackenberg	305		824503112	Interpretation	4
+1	34			8	"""the Son of God"""	"The reading ὁ ἐκλκτὸς (""the elect"") is to be preferred"	Schnackenberg	305		824503112	Text	4
+1	34			8	"""the Son of God"""	Mt 3:17; Mk 1:11; Lk 9:35; Isa 42:1					cf
+1	35			1	"""the next day"""	The indication of the day is meant to link the following scene very closely with the testimony of the Baptist	Schnackenberg	308		824503112	Interpretation	1
+1	37			7	"""followed"""	"ἀκολουθεῖν, here understood for the moment literally, is used metaphorically in John for the dedication of faith (cf. 8:12; 12:36; 10:4, 5, 27)"	Schnackenberg	308		824503112	"cf, Interpretation"	1
+1	37			7	"""followed"""	"Their ""following"" leads to ""remaining"""	Schnackenberg	308		824503112	"Interpretation, Topic"	2
+1	38			22	"""Where are you staying?"""	This question implies a request for an undisturbed conversation	Schnackenberg	308		824503112	Interpretation	1
+1	39			5	"""See"""	There is probably a deeper sense in ὄψεσθε	Schnackenberg	309		824503112	Interpretation	2
+1	39			19	"""It was about the tenth hour"""	The time mentioned indicates the length and fruitfulness of the conversation; it also suggests the importance of the hour for the disciples	Schnackenberg	309		824503112	Interpretation	2
+1	40					Problems surrounding the unnamed disciple	Schnackenberg	310		824503112	Interpretation	3
+1	41			3	"""first"""	πρῶτον has given rise to a number of hypotheses	Schnackenberg	310	311	824503112	Text	5
+1	42					Jesus is meant to be seen as the possessor of divine knowledge	Schnackenberg	311		824503112	Interpretation	2
+1	42			10	"""you... you"""	"It is this urgent, personal address (σύ...σύ; cf. v. 49b) which wins Simon"	Schnackenberg	311		824503112	"Form, Interpretation"	1
+1	42			11	"""Son of John"""	"""John"" suggests independent tradition"	Schnackenberg	311		824503112	Source	2
+1	42			18	"""you shall be called"""	The future κληθήσῃ is a prophecy	Schnackenberg	311		824503112	"Syntax, Interpretation"	2
+1	42			19	"""Cephas"""	Κηφᾶς explains the name Peter	Schnackenberg	311	312	824503112	"Semantics, Interpretation"	3
+1	42					We have here a clear example of Johannine narrative	Schnackenberg	312		824503112	Form	3
+1	42					The importance of Jesus' words to Peter for the evangelist	Schnackenberg	312	313	824503112	Interpretation	5
+1	43			14		This verse might have been an addition of the redaction	Schnackenberg	313		824503112	Redaction	4
+1	44			6	"""Bethsaida"""	Identity of Bethsaida	Schnackenberg	313	314	824503112	Historical	3
+1	45			3	"""Nathanael"""	Identity of Nathanael must be left open	Schnackenberg	314		824503112	Interpretation	4
+1	45			9	"""Moses in the law, and also the prophets, wrote"""	A formula which embraces the whole scripture of the O.T.	Schnackenberg	315		824503112	Topic	1
+1	46					The fourth Gospel attributes Jesus' knowledge to His intimate union with His Father (cf. 3:35; 11:42; 13:3)	Schnackenberg	316		824503112	cf	2
+1	47					Jesus' knowledge as presented in John	Schnackenberg	316		824503112	Topic
+1	47					Jesus' verdict expresses a high esteem for Nathanael	Schnackenberg	316		824503112	Interpretation	2
+1	47			18	"""deceit"""	Implications of δόλος in the OT	Schnackenberg	316		824503112	"cf, Word, Interpretation"	3
+1	48					"Various explanations for ""sitting under the fig tree"""	Schnackenberg	317		824503112	Interpretation	3
+1	49			5	"""you...you"""	The two-fold σύ indicates a personal warmth of dedication	Schnackenberg	317		824503112	Form	2
+1	49			5	"""you are"""	"on σὺ εἶ (""you are""), cf., Mt 11:3; 14:28; 16:16; Mk 3:11; Jn 4:19; 6:69; 8:53; 10:24; 11:27"	Schnackenberg	317		824503112	"cf, Topic"	3
+1	49			12	"""King of Israel"""	"cf., Jn 12:13; In contrast to ""king of the Jews"""	Schnackenberg	318		824503112	"cf, Topic, Interpretation"	3
+1	49			7	"""Son of God"""	Significance of this title as used by Nathanael	Schnackenberg	318	319	824503112	Interpretation	5
+1	50					Jesus' answer to Nathanael is not to be taken as skeptical	Schnackenberg	319		824503112	Interpretation	3
+1	50			16	"""greater things"""	"Must refer to revelation through the ""signs"" and primarily to the miracle of Cana"	Schnackenberg	319		824503112	Interpretation	3
+1	51			4	"""truly, truly i say to you"""	"The use of ""Amen"" is peculiar to Jesus; the doubling is typical of John"	Schnackenberg	319		824503112	Style	2
+1	51					Allusion to Gen 28:12	Schnackenberg	320		824503112	cf	2
+1	51					"The Son of Man is the ""place"" of the full revelation of God"	Schnackenberg	320	321	824503112	Interpretation	5
+1	51			9	"""heaven open"""	The thought behind this expression	Schnackenberg	321		824503112	"Interpretation, Topic"	4
+1	51			8	"""you will see"""	The disciples will experience in all Jesus' work the union with God which is his and his alone	Schnackenberg	321		824503112	Interpretation	2
+1	51			21	"""Son of Man"""	"cf., Mk 14:62; The vision of glory has been transposed into the present time"	Schnackenberg	322		824503112	"cf, Topic, Interpretation"	5
+2	11					v. 11 points forward to other signs to come (11a) and rounds off the story of the winning of the first disciples (11c)	Schnackenberg	323		824503112	Form	2
+2	1			2	"""On the third day"""	"the ""third day"" is probably a round number (cf. Lk 12:32) which links up with the foregoing but still points forward"	Schnackenberg	325	326	824503112	Interpretation	4
+2	3					Jewish wedding customs	Schnackenberg	326	327	824503112	Historical	2
+2	3					Comparing the request of Jesus' mother and that of Mary (Jn 11:22)	Schnackenberg	327		824503112	Interpretation	2
+2	4			6	"""Woman, what does your concern have to do with me?"""	"Connotes a certain aloofness, but not necessarily dissociation, rejection, or disrespect."	Schnackenberg	328	329	824503112	"Form, Interpretation"	5
+2	4			11	"""My hour has not yet come"""	Is this a question or a statement?	Schnackenberg	329		824503112	"Syntax, Interpretation"	4
+2	4			11	"""My hour has not yet come"""	Not so much a point of time as a decree issued by the Father	Schnackenberg	329	330	824503112	Interpretation	5
+2	4			11	"""My hour has not yet come"""	Style similar to 7:6-10	Schnackenberg	329		824503112	Style	2
+2	4			11	"""My hour has not yet come"""	"""Hour"" is not necessarily referring to Jesus' exaltation"	Schnackenberg	330	331	824503112	Interpretation	4
+2	5					"A delicate touch in keeping with the biblical picture of Mary (cf. Lk 1:38, 39, 45, 56)"	Schnackenberg	331		824503112	"cf, Interpretation"	2
+2	6				"""Waterpots of stone"""	waterpots of stone were prized for purification	Schnackenberg	332		824503112	Historical	2
+2	7			10	"""they filled them up to the brim"""	"This is important to the evangelist, and it shows the greatness of the miracle, the lavishness of Jesus' gift"	Schnackenberg	332		824503112	Interpretation	1
+2	9					"The miracle was not described, but merely verified by the conduct of the master of the ceremonies (cf. 6:12, 13)"	Schnackenberg	333		824503112	"cf, Form"	2
+2	9			11	"""and did not know..."""	The words from καὶ οὐκ to τὸ ὕδωρ should be taken as a parenthesis	Schnackenberg	333		824503112	Form	1
+2	9			13	"""where it came from"""	"πόθεν has a deeper meaning (cf. Jn 4:11; 7:27, 28; 8:14; 9:29, 30; 19:9)"	Schnackenberg	333		824503112	"cf, Interpretation, word, topic"	3
+2	1	2	11			The narrative is of masterly brevity; it falls into three scenes	Schnackenberg	334		824503112	Form	3
+2	11					The three statements are closely linked	Schnackenberg	334		824503112	Form	2
+2	11					"This revelation of the glory of Jesus is not a timeless ""epiphany"""	Schnackenberg	334		824503112	Interpretation	3
+2	11					The epiphany also has its importance for the historical path of Jesus	Schnackenberg	334		824503112	Interpretation	2
+2	11					The exigent character of the self-revelation of Jesus	Schnackenberg	334		824503112	Interpretation	2
+2	11					"The three clauses are a programmatic statement of what the ""signs"" essentially are and should be"	Schnackenberg	335		824503112	Interpretation	3
+2	11			3	"""beginning of signs"""	The evangelist calls attention to the beginning of Jesus' self-revelation	Schnackenberg	335		824503112	Interpretation	2
+2	11			14	"""glory"""	"The glory revealed here is primarily, but not restricted to, his divine and creative power"	Schnackenberg	335	336	824503112	"Interpretation, Topic, Word"	5
+2	11			13	"""manifested"""	φανεροῦν is a manifestation visible to the spiritually open eyes of the believer	Schnackenberg	336	337	824503112	"Interpretation, Topic, Word"	3
+2	11			18	"""believed in Him"""	The disciples' faith had received an essential impulse from the sign	Schnackenberg	337		824503112	"Interpretation, Topic"	2
+2	1	2	11			Revelation in John is the self-revelation of Jesus	Schnackenberg	337		824503112	Topic	5
+2	1	2	11			It is his origin from God and his union with the Father that must be believed and recognized	Schnackenberg	337	338	824503112	Topic	4
+2	1	2	11			Significance of the wine	Schnackenberg	338	339	824503112	"Topic, Interpretation"	5
+2	12	3	12			A sharp contrast between the scene in Jerusalem (2:12-3:12) and the prior events in Galilee	Schnackenberg	341		824503112	"Form, Interpretation"	3
+2	12	3	12			The presentation need not be reserved for the work of the final redaction	Schnackenberg	342		824503112	Redaction	2
+2	12					The statement about the short stay in Capernaum links the marriage feast of Cana with the cleansing of the temple	Schnackenberg	342		824503112	"Form, Interpretation"	2
+2	12					Capernaum as the place of Jesus' residence and the center of his activity (Mt 4:13; 9:1; 17:24-27; Mk 1:29-38; 3:20; 9:33)	Schnackenberg	343		824503112	"Word, Topic"	1
+2	12					"Jesus' staying, leaving, and avoiding indicates a deliberate purpose"	Schnackenberg	343		824503112	Topic	2
+2	13	2	22			A beginning that prefigures the end	Schnackenberg	344		824503112	Interpretation	3
+2	13	2	22			The construction is strikingly in the nature of a diptych	Schnackenberg	344		824503112	"Form, Structure"	4
+2	13			4	"""the Passover of the Jews"""	"The first item in the Johannine ""Calendar of Feasts"" (cf. Jn 2:13, 23; 6:4; 11:55; 12:1)"	Schnackenberg	345		824503112	cf	2
+2	14					Jesus condemned the sellers and money changers because they were in the santuary	Schnackenberg	346		824503112	Interpretation	2
+2	15			3		"The Greek word for ""whip"" is from the Latin ""flagellum"""	Schnackenberg	346		824503112	Semantics	1
+2	16					Jesus' consciousness of being the Son	Schnackenberg	347		824503112	Interpretation	2
+				13	"""Has eaten Me up"""	Jesus' zeal would cost him his life (Ps 68:10 LXX)	Schnackenberg	347		824503112	"cf, Semantics, Interpretation"	2
+2	17			13	"""Has eaten Me up"""	The reason that κατέφαγεν is in the future	Schnackenberg	347		824503112	"Syntax, Interpretation"	3
+2	17			1	"""His disciples' remembered"""	His disciples remembering (cf. Jn 12:16)
+2	17					The narrative style of the evangelist	Schnackenberg	348		824503112	Style	2
+2	18			3	"""the Jews"""	The authorities involved would be the overseers of the temple	Schnackenberg	348		824503112	Historical	2
+2	18					ἀπεκρίθησαν καὶ εἶπαν without a previous question is a Hebrewism (cf. Jn 5:17)	Schnackenberg	348		824503112	Form	1
+2	18					"The demand for a sign (cf. Jn 6:30; Mk 8:11, 12; Mt 12:38, 39; 16:1; Lk 11:16, 29, 30)"					cf
+2	18					ὅτι-clause instead of ἵνα-clause	Schnackenberg	348		824503112	"Form, Syntax"	2
+2	18					"The intention to stigmatize ""the Jews"" as unbelievers, in contrast to the disciples"	Schnackenberg	348	349	824503112	Interpretation	3
+2	19					The enigmatic saying resembles the procedure of the OT prophets and is in keeping with the procedure of the Johannine Christ	Schnackenberg	349		824503112	Topic	3
+2	19			6	"""Destroy"""	Reason for the use of λύειν and ἐγείρειν	Schnackenberg	349		824503112	"Semantics, Interpretation"	2
+2	19					"""saying on the temple"" (cf. Mt 26:61; 27:40; Mk 14:58; 15:29; Acts 6:14)"					cf
+2	19					Differences in the formulation of this saying	Schnackenberg	350		824503112	Source	4
+2	19					"Johannine ""misunderstandings"" (cf. Jn 3:3, 4; 4:15, 33; 6:34; 7:35; 8:52, 53, 57; 14:8, 22; 16:7, 8)"	Schnackenberg	350		824503112	Topic	1
+2	19					Expectation of the eschatological temple (cf. Ezek 40-44; Hab 2:7ff.; Zech 2:5-9)	Schnackenberg	350		824503112	Topic	2
+2	20				"""forty-six years"""	probable dates for the starting and completion of the temple	Schnackenberg	351		824503112	Historical	3
+2	21					"Other similar explanatory remarks: Jn 2:25; 6:6, 64; 9:7; 11:51, 52"	Schnackenberg	352		824503112	cf	2
+2	21					"Unity of death and glorification in the ""exaltation"" (cf. Jn 3:14f.; 8:28; 12:23, 32 ff.; 13:31f.; 17:1f.)"	Schnackenberg	352		824503112	Topic	2
+2	21					"The power of resurrection attributed to Jesus Himself (cf. Jn 10:18), in contrast to the rest of the NT"	Schnackenberg	352		824503112	Topic	2
+2	21					"Jesus is the true ""house of God"" (cf. 1:51)"	Schnackenberg	352		824503112	"Interpretation, Topic"	4
+2	22			6	"""remembered"""	"The disciples' ""remembering"" links v. 22 to v. 17"	Schnackenberg	353		824503112	Form	2
+2	22					Interpreting Jesus' words and actions in terms of post-paschal experience	Schnackenberg	353		824503112	Interpretation	3
+2	22					"Ultimately, the cleansing of the temple becomes a revelation of his glory (cf. 2:11)"	Schnackenberg	353		824503112	"Interpretation, Topic"	3
+2	13	2	22			The relationship of the Johannine account to the synoptic narrative	Schnackenberg	353	355	824503112	Historical	5
+2	13	2	22			"The evangelist points to another incident as bring the conflict between Jesus and the authorities to a head--the raising of Lazarus (cf. 11:45-53, 57; 12:9 ff., 17 ff.)"	Schnackenberg	355		824503112	cf	2
+2	13	2	22			The extent of a deeper symbolism	Schnackenberg	356	357	824503112	Interpretation	5
+2	23	2	25			This short section serves as a theological reflection	Schnackenberg	357		824503112	Interpretation	2
+2	23	2	25			Efforts to prove that this section is the work of a redactor remain unconvincing	Schnackenberg	357	358	824503112	"Redaction, Style"	4
+2	23	2	25			The verses are a necessary presupposition or a preparation for the dialogue with Nicodemus	Schnackenberg	358		824503112	"Form, Interpretation"	3
+2	24					"The peculiar expression is to be explained by the effort to contrast (αὐτὸς δέ) to the ""faith"" of the crowds"	Schnackenberg	358		824503112	"Form, Interpretation"	2
+2	23					"Jesus' miracles in Jerusalem are mentioned here as incidentally and as summarily as those in Galilee, Jn 6:2"	Schnackenberg	358		824503112	Form	2
+2	23					"The faith of the numerous believers remains, as in Galilee, over-attached to miracles (cf. Jn 4:45, 48)"	Schnackenberg	358		824503112	Interpretation	2
+2	24			5	"""commit"""	During his whole stay in the city Jesus trust himself to nobody (hence the imperfect)	Schnackenberg	359		824503112	"Syntax, Interpretation"	2
+2	24			5	"""commit"""	The use of πιστεύειν with the reflexive pronoun is singular but well attested outside the NT	Schnackenberg	359		824503112	Syntax	2
+2	24					Jesus sees into the hearts of all (cf. Jn 1:48; 5:42)	Schnackenberg	359		824503112	cf	2
+2	25			8	"""testify of man"""	"""Man,"" in the singular in the Greek, envisages human inadequacy as such"	Schnackenberg	359		824503112	Interpretation	1
+2	25					The evangelist's conviction of Jesus' profound insight into the heart stems from his Christology	Schnackenberg	359		824503112	Interpretation	2
+3	13	3	21			3:13-21 come from a kerygmatic exposition that was not part of the Gospel narrative	Schnackenberg	360	361	824503112	"Redaction, Form"	5
+3	31	3	36			"3:31-36 is the first part of the ""kerygmatic discourse,"" followed by 3:13-21"	Schnackenberg	360	361	824503112	"Redaction, Form"	4
+3	31	3	36			"The dialogue with Nicodemus probably occasioned the composition of the ""kerygmatic discourse"""	Schnackenberg	362		824503112	"Redaction, Form"	3
+3	1	3	36			The procedure that led to the present arrangement	Schnackenberg	362		824503112	Redaction	3
+3	1	3	36			"Soundness of the ""kerygmatic discourse"" hypothesis"	Schnackenberg	362	363	824503112	Redaction	4
+3	1	3	12			"Jesus' answer concerning being born from above was supremely important for primitive Christianity, since it explained why Christian baptism was the beginning of salvation"	Schnackenberg	364		824503112	Interpretation	2
+3	1			7	"""Nicodemus"""	A Greek name and a loan-word in Aramaic	Schnackenberg	365		824503112	Semantics	1
+3	1			10	"""a ruler of the Jews"""	A member of the Sanhedrin (cf. Jn 7:50)	Schnackenberg	365		824503112	Historical	2
+3	2			5	"""by night"""	Possible significance of the night	Schnackenberg	365	366	824503112	Interpretation	3
+3	2			10	"""We know"""	A polite exaggeration but gives a more universal import	Schnackenberg	366		824503112	Interpretation	3
+3	3			18	"""the kingdom of God"""	The heavenly realm on high (cf. Jn 14:3; 12:26; 17:24)	Schnackenberg	366		824503112	"cf, Interpretation"	2
+3	3			18	"""the kingdom of God"""	It derives from fixed oral tradition	Schnackenberg	367		824503112	Source	2
+3	3			13	"""born again"""	"The only justifiable translation is ""born from above"""	Schnackenberg	367	368	824503112	Semantics	3
+3	4					"Jesus' hearers reaching wrong and stupid conclusions (cf. Jn 4:15; 6:34, 52; 8:57; 14:8)"	Schnackenberg	368		824503112	"cf, Topic"	2
+3	3			13	"""born again"""	The rebirth here differs from the Hellenistic notion	Schnackenberg	368		824503112	Interpretation	2
+3	3			14	"""again"""	ἄνωθεν designates the divine and heavenly world	Schnackenberg	368		824503112	Interpretation	3
+3	4					Nicodemus' questions are meant to bring out the senseless nature of the doctrine	Schnackenberg	368		824503112	Interpretation	3
+3	4					"Nicodemus has only taken up and analyzed ""being born"" and ignored ""from above"""	Schnackenberg	368	369	824503112	"Form, Interpretation"	3
+3	5			3	"""Most assuredly"""	Introduces words of revelation	Schnackenberg	369		824503112	"Form, Interpretation"	2
+3	5			10	"""born of water and the Spirit"""	Birth from the Spirit realized concretely in baptism	Schnackenberg	369		824503112	Interpretation	5
+3	5					Judaic thought on the Holy Spirit and his eschatological functions	Schnackenberg	370		824503112
+3	6					The impossibility of man's attaining the kingdom of God by his own powers comes from the essential difference between the two realms of being	Schnackenberg	371		824503112	Interpretation	3
+3	6					The frequent εἶναι ἐκ affirms both origin and type of being	Schnackenberg	371		824503112	Interpretation	2
+3	6					"Jn 1:13; Gen 6:3; Isa 31:3; Job 34:14, 15; Rom 1:3,4; 1Tim 3:16; 1Pet 3:18"					cf
+3	6					"Origin of the opposition between the realms of ""flesh"" and ""Spirit"""	Schnackenberg	372		824503112	"Interpretation, Historical"	5
+3	7					Jesus returns to his thesis of v. 3 (inclusio)	Schnackenberg	373		824503112	Form	2
+3	7			1	"""Do not marvel"""	A rhetorical phrase (cf. Jn 5:28; 1Jn 3:13)	Schnackenberg	373		824503112	Form	2
+3	8			19	"""so"""	This is a short parable	Schnackenberg	373		824503112	Form	2
+3	8					The powers of the Spirit are divinely mysterious but recognizable through the effects which he produces in man	Schnackenberg	373	374	824503112	Interpretation	5
+3	8					"The phrase ""Pneuma blows where it wills"" is not to be interpreted in terms of the freedom of God's election and call to grace and salvation, but as depicting the supernatural process of salvation invisible to man which takes place at baptism and in which the Holy Spirit is at work"	Schnackenberg	374		824503112	Interpretation	2
+3	8					Nicodemus should abandon his probings and believe	Schnackenberg	374		824503112	Interpretation	2
+3	9					Nicodemus' doubt and obtuseness	Schnackenberg	374		824503112	Interpretation	2
+3	10					The rabbinate was ineffective because it needed and lacked faith in the eschatological envoy of God	Schnackenberg	375		824503112	Interpretation	2
+3	11					"""We"" includes Jesus' disciples (cf. Jn 13:20; 15:20)"	Schnackenberg	375	376	824503112	"cf, Interpretation"	5
+3	12					The real supposition of εἰ and the hypothetical ἐάν	Schnackenberg	377		824503112	Form	2
+3	12			2	"""earthly things"""	"Meaning of ""earthly things"" and ""heavenly things"	Schnackenberg	377	379	824503112	Interpretation	5
+3	12					"Degrees in the knowledge of salvation (cf. 1Cor 3:2; Heb 6:1, 2)"	Schnackenberg	377	378	824503112	"cf, Topic"	4
+3	13					The ascent and descent of the Son of Man is to accomplish God's universal salvific will	Schnackenberg	392		824503112	Interpretation	4
+3	13			13	"""come down"""	The aorist καταβάς makes the context historical	Schnackenberg	393		824503112	"Syntax, Interpretation"	3
+3	13			3	"""has ascended"""	The perfect ἀναβέβηκεν means that the Son of Man now dwells in the heavenly world continuously	Schnackenberg	393		824503112	"Syntax, Interpretation"	2
+3	13			14	"""Son of Man"""	"This Christological title is used in John in connection with the thought of ascent (Jn 6:62), ""exaltation"" (Jn 3:14; 12:34) and ""glorification"" (Jn 12:23; 13:31)"	Schnackenberg	393		824503112	"cf, Topic"	2
+3	13			14	"""Son of Man"""	"This title also designates Jesus during his stay on earth (Jn 1:51; 9:35; 12:34) but from the view of his heavenly origin and his return to heaven (cf., Jn 6:27; 13:31)"	Schnackenberg	393		824503112	"cf, Topic"	2
+3	13			14	"""Son of Man"""	The Johannine Son of Man concept represents the final and most mature development of the set of thoughts connected with this title	Schnackenberg	393	394	824503112	Topic	4
+3	13				"""who is in heaven"""	Textual considerations and the difficulties the expression raises	Schnackenberg	394		824503112	"Text, Interpretation"	4
+3	14					Jn 12:32					cf
+3	14					A brief kerygmatic formula	Schnackenberg	395		824503112	Interpretation	3
+3	14			2	"""as"""	Three points of connection in the typology	Schnackenberg	395	396	824503112	Interpretation	2
+3	14					"By considering the Crucifixion as a salvific ""exaltation,"" the evangelist takes a most important step in Christology (cf. Isa 52:13)"	Schnackenberg	396	397	824503112	"cf, Interpretation"	5
+3	15			1	"""that"""	The goal of salvation (ἵνα) is the giving of life to believers	Schnackenberg	397		824503112	"Syntax, Interpretation"	1
+3	15			5	"""in Him"""	" ἐν αὐτῷ does not depend on ὁ πιστεύων but on ἔχῃ, and are placed before it for emphasis"	Schnackenberg	397		824503112	Syntax	1
+3	15			5	"""in"""	The indication of the object of faith by ἐν: intrinsic union	Schnackenberg	397	398	824503112	"Form, Interpretation"	4
+3	15			3	"""believes"""	πιστεύειν by itself is used for preference to designate Johannine faith in the full sense	Schnackenberg	398		824503112	Topic
+3	15			3	"""believes"""	"πιστεύειν in John without any object being expressed (Jn 1:7, 50; 3:12, 18; 4:41, 42, 53; 5:44; 6:36, 47, 64; 9:38; 10:25, 26; 11:15, 40; 12:39; 14:11, 29; 16:31; 19:35; 20:8, 25, 29, 31)"	Schnackenberg	398		824503112	"cf, Topic"	1
+3	15					The addition μὴ ἀπόληται ἀλλʼ is an intrusion from verse 16	Schnackenberg	398		824503112	Text	2
+3	16			6	"""the World"""	"The world of men estranged from God, bereft of divine life and object of his anger (cf. Jn 3:36)"	Schnackenberg	398		824503112	Interpretation	1
+3	16					"The best commentary is provided by 1Jn 4:9, 10"	Schnackenberg	398	399	824503112	cf	2
+3	16				"""He gave"""	Indicates primarily God's sending of the Son into the world	Schnackenberg	399		824503112	Interpretation	4
+3	16				"""loved"""	God has manifested His love in a historical act (ἠγάπησεν)	Schnackenberg	399		824503112	"Syntax, Interpretation"	1
+3	16			8	"""that (ὥστε)"""	The unusual indicative after ὥστε indicates that the mission of the Son and his delivery to death and immovable facts of history	Schnackenberg	399	400	824503112	"Syntax, Interpretation"	1
+3	16					The sharply-contrasted dualistic categories	Schnackenberg	400		824503112	"Form, Interpretation"	2
+3	16			21	"""perish"""	"Jn 17:12; 10:10, 28; 12:25"	Schnackenberg	400		824503112	cf	1
+3	16			21	"""perish"""	John gives it a presential meaning	Schnackenberg	400		824503112	Interpretation	1
+3	17			2	"""for"""	Explains the emphasizes God's purpose	Schnackenberg	400		824503112	"Syntax, Interpretation"	2
+3	17					The typical Johannine antithesis brings out more strongly the saving love of God	Schnackenberg	400	401	824503112	"Form, Interpretation"	2
+3	17				"""that the world through Him might be saved"""	The universal salvific will of God	Schnackenberg	401		824503112	Interpretation	2
+3	18					"The ""realized eschatology"" is nowhere so palpable as here"	Schnackenberg	401	402	824503112	Interpretation	4
+3	18			14	"""has not believed"""	The perfect tense indicates a persistent state	Schnackenberg	402		824503112	Syntax	1
+3	18					"The recurring theme of judgment and unbelief (cf. Jn 3:19ff., 5:39-47; 8:23f., 43-47; 9:39ff.; 10:25f.; 13:37-43; 15:22ff.)"	Schnackenberg	401	402	824503112	"cf, Topic"	4
+3	18					"John's kerygmatic thinking does not exclude a future judgment, but helps to avoid too naive ideas of the ""last judgment"""	Schnackenberg	403		824503112	Interpretation	4
+3	19					The evangelist turns (δέ) once more to the historical process and recognizes that men in fact have preferred darkness to light (aorist)	Schnackenberg	403		824503112	Syntax	1
+3	19					"A judgment, which unbelief brings about, is also brought about by Jesus' revelation"	Schnackenberg	404		824503112	Interpretation	3
+3	19					The purpose of the evangelist is to display the personal responsibility of unbelievers and the horror of their act in its true colours	Schnackenberg	404		824503112	Interpretation	1
+3	19			23	"""because their deeds were evil"""	Apparent contradiction with passages that affirm of the Father's working	Schnackenberg	405	406	824503112	Interpretation	5
+3	20					"The same idea of evil-doers hating the light is often found in the OT (cf., Job 24:13-17; 38:12f.; Isa 29:15; Jer 49:9; Ps 11:2; 91:5"	Schnackenberg	406		824503112	"cf., Topic"	1
+3	20					Deeper explanation of the principles involved	Schnackenberg	406	407	824503112	Interpretation	3
+3	21			1	"""he who does the truth"""	This turn of phrase is Semitic	Schnackenberg	407		824503112	Source	1
+3	21			4	"""truth"""	"""Truth"" is totally opposed to the ""lie,"" the falsehood and wickedness which comes from the devil (Jn 8:44; 1Jn 2:21; Rom 1:25; 2Thess 2:9f.)"	Schnackenberg	407		824503112	Interpretation	1
+3	21			1	"""he who does the truth"""	Those who strive to do God's truth have the disposition to hear the truth in Christ	Schnackenberg	407		824503112	Interpretation	2
+3	21			10	"""that"""	"The point of the ἵνα-clause is not that the works of him who ""does the truth"" should be clearly seen, but that it should be clearly seen that they are ""done in God"""	Schnackenberg	408		824503112	Interpretation	3
+3	21					"Kinship between the children of God and the Son of God (cf., Jn 11:52); intrinsic relationship moral behavior and faith (1Jn 1:6f.; 2:3f., 9ff.; 3:14, 19; 5:2f.)"	Schnackenberg	408		824503112	"Interpretation, cf"	2
+3	22					Possibly some disciples of Jesus continued to baptize in the spirit of John in order to gain followers for Jesus	Schnackenberg	411	412	824503112	"Interpretation, Historical"	5
+3	23					The relationship between the Baptist to Jesus remains unexplained and inexplicable	Schnackenberg	412		824503112	"Interpretation, Historical"	2
+3	23					Aenon's location	Schnackenberg	412	413	824503112	Historical	4
+3	23					The place where John was baptizing was a good distance away from Jesus	Schnackenberg	413		824503112	Historical	1
+3	24					This remark is important for the relationship with the Synoptics	Schnackenberg	413		824503112	"Interpretation, Historical"	2
+3	25					"In the context, the argument was on the comparative values of the baptism of Jesus and that of John"	Schnackenberg	413	414	824503112	Interpretation	2
+3	25			9	"""the Jews"""	The plural reading is secondary	Schnackenberg	414		824503112	Text	3
+3	25			11	"""purification"""	Intrinsic purity and absolution of sins	Schnackenberg	414		824503112	Semantics	3
+3	25					We catch a glimpse of the conflict between the Church and the disciples of John	Schnackenberg	414		824503112	Historical	1
+3	26					cf. the typical οὗτος as in Jn 1:7; 3:2	Schnackenberg	414		824503112	"cf, Style"	1
+3	26					The small-minded jealousy of the disciples of John	Schnackenberg	414	415	824503112	Interpretation	2
+3	27			7		"ἄνθρωπος is probably Semitism, used here in a vague sense for τις"	Schnackenberg	415		824503112	Semantics	3
+3	27					The construction διδόναι with the infinitive is common; see the exact parallels in Jn 6:65; 19:11	Schnackenberg	415		824503112	Syntax	3
+3	27			8	"""receive"""	"λαμβάνειν here must mean ""take"""	Schnackenberg	415		824503112	Semantics	3
+3	28			18	ἐκεῖνος	ἐκεῖνος is characteristic of the style of the evangelist	Schnackenberg	416		824503112	Style	1
+3	29			7	"""the friend of the bridegroom"""	Background on the role of the friend of the bridegroom	Schnackenberg	416		824503112	Historical	3
+3	29			20	"""the bridegroom's voice"""	"Possible meaning of the ""voice of the bridegroom"""	Schnackenberg	416		824503112	Historical	2
+3	29			3	"""the bride"""	"The evangelist and his Christian readers must have interpreted the ""bride"" as the Messianic community"	Schnackenberg	417		824503112	Interpretation	2
+3	29					"The parable has nothing to do with the Hellenistic or Gnostic notion of the ""sacred marriage"""	Schnackenberg	417		824503112	"Interpretation, Historical"	3
+3	30					"The growth and decrease do not refer directly to the number of followers, but to the power and influence which each exercises"	Schnackenberg	417		824503112	Semantics	2
+3	31			4	ἐπάνω	ἐπάνω keeps to the metaphor of ἄνωθεν	Schnackenberg	381		824503112	Form	1
+3	31			4	ἐπάνω	The spatial category implies a judgment of rank and value	Schnackenberg	381		824503112	Semantics	2
+3	31			7	"""he who is of the earth"""	The singular means men in general	Schnackenberg	381		824503112	Form	2
+3	31			9	ἐκ...ἐκ	Brings out the two meanings of ἐκ: origin and type	Schnackenberg	382		824503112	"Semantics, Interpretation"	2
+3	31					"This ""dualism"" is very far from being Gnostic, and remains in the line of Jewish thought"	Schnackenberg	382		824503112	Historical	3
+3	31			17	"""speaks of the earth"""	"Reminiscence of the interventions of Nicodemus (Jn 3:4, 9)"	Schnackenberg	382		824503112	Interpretation	3
+3	31	3	36			Probable intentions of the redactors	Schnackenberg	383		824503112	Redaction	3
+3	32					"Jesus' direct knowledge and experience described by the analogy of human ""seeing"" and ""hearing"" (cf. Jn 1:18; 6:46; 8:26, 40; 15:15)"	Schnackenberg	383		824503112	"cf, Form, Topic"	2
+3	32					"Because of Jesus' direct access to revelation, he can affirm that his doctrine is not his own (Jn 7:16; cf. 8:26, 28; 12:49; 14:24)"	Schnackenberg	384		824503112	"cf, Topic, Interpretation"	3
+3	32					"Since his revelation comes from immediate ""perception,"" his doctrine takes the form of a testimony (cf. Jn 8:14)"	Schnackenberg	384		824503112	"cf, Interpretation, Topic"	2
+3	32					"What this heavenly witness discloses is the divine truth itself (cf. Jn 8:32, 40, 45; 17:17; 18:37)"	Schnackenberg	384		824503112	"cf, Topic"	1
+3	33					The twofold sense of God's truthfulness: the truth of God's word and God's fidelity to his word	Schnackenberg	384		824503112	Interpretation	2
+3	32					"Reason for placing ""seeing"" before ""hearing"""	Schnackenberg	384		824503112	"Interpretation, Form"	2
+3	32			2	ἑώρακεν καὶ ἤκουσεν 	The difference of tenses is probably only to vary the style	Schnackenberg	384		824503112	"Syntax, Style"	2

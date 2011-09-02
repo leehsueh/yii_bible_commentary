@@ -1,0 +1,59 @@
+Chap	Verse	Chap	Verse	StartWord	Heading	Entry	Author	Page	Page	ISBN/URL	Category	Depth
+0						Joshua and the remaining books of the Deuteronomic History are predominantly narrative	Polzin	73		816404569	Form	1
+0						3-part division of the text	Polzin	73		816404569	Structure	1
+1						Nothing happens except words in this chapter	Polzin	75		816404569	Form	3
+1	3	1	5			"1:3-5a is almost a literal rendering of a part of Moses' second address preceding the lawcode: Deut 11:24, 25"	Polzin	75		816404569	cf	5
+1	5	1	7			1:5c-7a is very close to Moses' words to Joshua in Deut 31:7-8	Polzin	75	76	816404569	cf	5
+1	13	1	15			"Almost identical in content with Deut 3:18-20, but contains important phraseological differences that help us see the narrator's role more clearly"	Polzin	77		816404569	"Form, cf"	5
+1	13	1	15			The identity of the land-giver shifts twice from the LORD to Moses	Polzin	78	79	816404569	Form	5
+1						The theme of promise often repeats itself in this chapter	Polzin	79		816404569	Form	2
+1		12				The first section of Joshua (1-12): How Joshua and Israel fulfilled the commands of the LORD	Polzin	80		816404569	"Form, Structure"	1
+5	9					First of three instances of divine utterances which interpret or apply an existing authoritative word	Polzin	80		816404569	Form	3
+7	11	7	12			Second of three instances of divine utterances which interpret or apply an existing authoritative word	Polzin	81		816404569	Form	3
+8	2					Third of three instances of divine utterances which interpret or apply an existing authoritative word	Polzin	81		816404569	Form	3
+8	2					God's words here are in direct conflict with the Mosaic rules for holy war found in Deut 20:15-18	Polzin	81	82	816404569	"Form, Interpretation"	5
+2						The Rahab story is the temporal preview of the significance of the Israelite occupation	Polzin	88	89	816404569	Form	5
+3	1	5	1			Josh 3:1-51 is the first occurrence of an especially important framing device in the book: the liturgical narrative	Polzin	92	93	816404569	Form	5
+0						The literary structure of Joshua	Polzin	93		816404569	"Form, Structure"	3
+6	1	6	27			6:1-27: A cultic narrative	Polzin	93		816404569	Form	1
+8	30	8	35			8:30-35: A cultic narrative	Polzin	93		816404569	Form	1
+13		21				Chapters 13-21: A cultic narrative	Polzin	93		816404569	Form	1
+24	1	24	28			24:1-20: A cultic narrative	Polzin	94		816404569	Form	1
+3						Chapter 3 consists of the first episode in the story	Polzin	95		816404569	Form	2
+4	1	4	8			4:1-8 narrates the second episode in the story	Polzin	95		816404569	Form	2
+3	11	3	12			3:11-12 provides a literary link between the two episodes	Polzin	95		816404569	Form	3
+4	9	4	14			4:9-12 is the third episode in the story	Polzin	95		816404569	Form	4
+4	15	4	18			4:15-18 comprises the fourth episode of the story	Polzin	96		816404569	Form	2
+4	19	5	1			4:19-5:1 is the fifth episode in the story	Polzin	96		816404569	Form	2
+3	17					Significance of the sudden shift to a narratologically rare participal form	Polzin	97	98	816404569	Form	5
+4	10					"The focus shifts from movement to the absence of movement, from change to immobility"	Polzin	98		816404569	Form	5
+3	11	3	12			"3:11-12, as the literary prefiguring of the next episode, emphasizes by the participle the immobility of the Ark and its priests"	Polzin	98		816404569	Form	2
+4	3					Joshua is to speak these words while in the middle of the Jordan	Polzin	99	100	816404569	Form	5
+4	5					Shift in spatial perspective	Polzin	99	101	816404569	Form	5
+4	8					Here the narrative has switched back to the spatial position in the middle of the Jordan	Polzin	99	100	816404569	Form	4
+3	1	5	1			"Episodes 1 to 3 (3:1-4:14) are narrated from a vantage point outside of the promised land, whereas episodes 4 and 5 (4:15-5:1) are narrated from a vantage point inside of the promised land."	Polzin	101		816404569	Form	4
+4	14					"4:14 is the observation of an omniscient observer who has penetrated the psychological consciousness of ""all Israel"""	Polzin	102	103	816404569	Form	2
+5	1					"This time, the narrator reveals the inner consciousness of the invaded inhabitants of the land, and this verse turns out to be the logical conclusion of episodes 4 and 5"	Polzin	103		816404569	Form	2
+4	7					"The stones, on the one hand, testify to the impact of the miraculous crossing upon the inner consciousness of the Israelites themselves"	Polzin	103		816404569	Form	2
+4	24					"The significance of the stones in this verse, in contrast to 4:7, is directed to non-Israelites"	Polzin	103	104	816404569	Form	2
+3	1	5	1			"The phraseological pattern of 3:1-5:1 illustrates the basic ""promise/fulfillment"" structure of the entire Deuteronomic History"	Polzin	104		816404569	Form	2
+4	14					The fulfillment of what the LORD predicted in 3:7	Polzin	104		816404569	cf	2
+5						"Together with Joshua 2, this chapter deals primarily with the theme of God's mercy and forgiveness in allowing Israel to occupy the land"	Polzin	110		816404569	"Form, Interpretation"	1
+5	9					This is a direct literary allusion to Deut 9:28	Polzin	111		816404569	"Interpretation, cf"	3
+5	11	5	13			The story in 5:13-15 is in actuality the Deuteronomist's final and complete statement of the meaning of the initial occupation	Polzin	111	112	816404569	Interpretation	5
+8	33					Deut 11:29; 27:12					cf
+8	33			15	"""the stranger as well as he who was born among them"""	Literary connection with the Gibeonite story; dramatic reversal of the native and the alien (cf. 8:35)	Polzin	117		816404569	Form	4
+9	3	9	27			Josh 9:3-27 is a deliberate literary allusion to Deut 29:1-21	Polzin	117	119	816404569	Form	5
+6	18					"The Deuteronomic History is a reminder to Israel that they were once under the ban, yet were saved because of God's promise to the fathers"	Polzin	121		816404569	"Form, Interpretation"	2
+10	6					"וְהוֹשִׁיעָה לָּנוּ (""and save us"") demands an answer that was in fact given by Moses in Deut 20:4: לְהוֹשִׁיעַ אֶתְכֶם׃ (""to save you"")"	Polzin	121	122	816404569	"Form, Interpretation"	3
+10						Five  episodes in chapter 10: 1) 10:1-11; 2) 10:12-15; 3) 10:16-27; 4) 10:28-39; 5) 10:40-43	Polzin	122	123	816404569	"Form, Structure"	5
+11	23					The exploits narrated between Josh 1:7 and 11:23 are intended to explain how Joshua fulfilled all these divine commands	Polzin	124		816404569	"Form, Interpretation"	3
+0						Chapters 2-12 was a meditation on what the commands of the LORD mean; 13-21 is a meditation on how the word of the LORD is fulfilled	Polzin	126		816404569	"Form, Interpretation"	2
+0						"The Mosaic lawcode of Deuteronomy 12-16 ""maps out the territory"" that constitutes the commands God gave to Moses just as Joshua's allocation of land in 14-21 ""promulgates the legal limits"" of the promised land"	Polzin	128		816404569	Structure	2
+21	41	21	43			The basic point of view of the Book of Joshua ceases to have meaning for the reader if the evaluation expressed in 21:41-43 is literally rather than ironically construed	Polzin	132		816404569	Form	4
+22						"The Book of Joshua's constant theme of the outsider in Israel now reaches its climax; first the outsiders inside the land, then the insiders outside the land"	Polzin	134		816404569	Form	3
+22	33					"The imperfective form of ישׁב here indicates a shift to the synchoronic point of view on the part of the narrator, and is compositionally important"	Polzin	139		816404569	Form	4
+24	1	24	28			The Lord's words in 24:2-14 focuses on mercy; whereas the dialogue between Joshua and Israel in 24:15-24 concentrates on their retributive implications	Polzin	141	142	816404569	"Form, Structure"	2
+24	2	24	13			24:2-13 is the only example of God's direct narrative explanation of the significant aspects of his past dealings with Israel	Polzin	143		816404569	Form	3
+24	2	24	13			God's explanation gives no special status to law and covenant in the depiction of Israel's essential relationship to God	Polzin	143		816404569	"Form, Interpretation"	2
+24	14			1	"""Now therefore"""	Joshua is depicted as immediately interpreting God's words	Polzin	143		816404569	Form	2
