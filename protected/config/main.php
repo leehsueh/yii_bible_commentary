@@ -38,10 +38,10 @@ return array(
 			'allowAutoLogin'=>true,
 		),
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=bible_commentary_test',
+			'connectionString' => 'mysql:host=localhost;dbname=leehsueh_bc',
 			'emulatePrepare' => true,
-			'username' => 'root',
-			'password' => 'trunksu',
+			'username' => 'leehsueh_bc',
+			'password' => 'bcdev',
 			'charset' => 'utf8',
             'tablePrefix' => 'tbl_',
 		),

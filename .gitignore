@@ -1,12 +1,14 @@
 # misc project folders #
 ###########################
 nbproject/
-assets/
+assets/*
+protected/runtime/*
 
 # files
 protected/data/importing_initial_data/bible13.txt
 protected/data/importing_initial_data/bible13_mysql.sql
 protected/data/backups/
+bible_commentary.sublime-project
 
 # Compiled source #
 ###################

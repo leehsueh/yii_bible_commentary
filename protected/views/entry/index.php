@@ -53,6 +53,18 @@ $this->breadcrumbs = array(
     </div>
 
     <?php echo CHtml::endForm(); ?>
+
+    <p><?php 
+        if (is_array($filterFormModel->passageText)) {
+            echo "<ul>";
+            foreach ($filterFormModel->passageText as $ref => $text) {
+                echo "<li>" . $ref . " " . $text . "</li>";
+            }
+            echo "</ul>";
+        } else {
+            echo $filterFormModel->passageText;
+        }
+     ?></p>
     </div>
 <?php
         $this->widget('zii.widgets.grid.CGridView', array(
@@ -60,23 +72,16 @@ $this->breadcrumbs = array(
             'selectableRows' => 0,
             'enableSorting' => true,
             'columns' => array(
-                'entry_id',
-                //'start_verse_id',
-                //'end_verse_id',
-                //'entry_author_id',
-                'userName',
                 'heading',
                 'passageReference',
-                'entry_text',
+                'entry_text:html',
                 'start_word',
                 'depth',
-                'referenceInfo',
-                'pageRange',
-                'date_added',
                 array(
                     'name' => 'Last Updated',
                     'value' => 'date("m/d/Y",strtotime($data->last_updated))'
                 ),
+                'categoriesList',
                 array(
                     'class' => 'CButtonColumn',
                 ),

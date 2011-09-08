@@ -244,6 +244,22 @@ class Entry extends CActiveRecord {
             return "(no reference cited)";
     }
 
+    /**
+     * Returns a string represntation of the categories associated with
+     * this entry.
+     *
+     * @return string of comma-separated categories
+     * @author 
+     **/
+    public function getCategoriesList() {
+        $str = "";
+        foreach ($this->categories as $category) {
+            $str .= $category->name . ", ";
+        }
+        $str = substr($str, 0, -2);
+        return $str;
+    }
+
     public function getPageRange() {
         if ($this->ref_start_page_num) {
             if ($this->ref_end_page_num)

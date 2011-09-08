@@ -1,3 +1,12 @@
+<?php 
+	Yii::app()->clientScript->registerScriptFile("http://bible.logos.com/jsapi/referencetagging.js", CClientScript::POS_END); 
+	Yii::app()->clientScript->registerScript("reftaggerOptions","Logos.ReferenceTagging.lbsBibleVersion = \"NKJV\";
+    Logos.ReferenceTagging.lbsLinksOpenNewWindow = true;
+    Logos.ReferenceTagging.lbsLogosLinkIcon = \"dark\";
+    Logos.ReferenceTagging.lbsNoSearchTagNames = [ \"h2\", \"h3\", \"h4\" ];
+    Logos.ReferenceTagging.lbsTargetSite = \"biblia\";
+    Logos.ReferenceTagging.tag();", CClientScript::POS_END);
+?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>

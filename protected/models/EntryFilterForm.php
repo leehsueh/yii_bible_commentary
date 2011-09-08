@@ -35,6 +35,23 @@ class EntryFilterForm extends CFormModel {
      * John 12:1-13:4
      */
 
+     private $passageText;
+
+     public function getPassageText() {
+         if (isset($this->book) && isset($this->startChapter) && isset($this->startVerse)) {
+            $sv = BibleVerse::verse($this->book, $this->startChapter, $this->startVerse);
+            $ev = BibleVerse::verse($this->book, $this->endChapter, $this->endVerse);
+            $passageVerses = BibleVerse::model()->findAllByPk(range($sv->verse_id, $ev->verse_id));
+            $verses = array();
+            foreach ($passageVerses as $verse) {
+                $verses[$verse->chapter . ":" . $verse->verse] = $verse->verse_text;
+            }
+            return $verses;
+         } else {
+             return ucfirst($this->passage);
+         }
+     }
+
     /**
      * Validation rules for the form
      */
@@ -64,10 +81,10 @@ class EntryFilterForm extends CFormModel {
         if ($match) {
             $this->passage = $matchesArray[0]; // the portion that matched
             $this->book = $matchesArray['book'];
-            $this->startChapter = $matchesArray['start_chapter'];
-            $this->startVerse = $matchesArray['start_verse'];
-            $this->endChapter = $matchesArray['end_chp_or_verse'];
-            $this->endVerse = $matchesArray['end_verse'];
+            $this->startChapter = isset($matchesArray['start_chapter']) ? $matchesArray['start_chapter'] : null;
+            $this->startVerse = isset($matchesArray['start_verse']) ? $matchesArray['start_verse'] : null;
+            $this->endChapter = isset($matchesArray['end_chp_or_verse']) ? $matchesArray['end_chp_or_verse'] : null;
+            $this->endVerse = isset($matchesArray['end_verse']) ? $matchesArray['end_verse'] : null;
 
             if (!$this->endChapter && !$this->endVerse) {
                 // e.g. John 1:2 => John 1:2-1:2

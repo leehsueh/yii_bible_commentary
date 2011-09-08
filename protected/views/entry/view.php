@@ -29,7 +29,7 @@ $this->breadcrumbs=array(
         'passageReference',
         'username',
         'heading',
-        'entry_text',
+        'entry_text:html',
         'start_word',
         'depth',
         'reference_id',

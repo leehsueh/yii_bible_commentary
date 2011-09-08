@@ -262,7 +262,7 @@ class EntryController extends Controller {
                         'pageSize' => self::PAGE_SIZE,
                     ),
                 ));
-        if ($entryCriteria != null)
+        if (isset($entryCriteria) && $entryCriteria != null)
             $dataProvider->criteria = $entryCriteria;
 
         $dataProvider->sort->defaultOrder = 'last_updated DESC, date_added DESC, entry_id DESC';
