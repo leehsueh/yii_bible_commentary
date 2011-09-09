@@ -254,9 +254,11 @@ class EntryController extends Controller {
                                     $filterFormModel->startChapter
                     );
                 }
-                else    // only book specified
+                else if ($filterFormModel->book != null)   // only book specified
                     $entryCriteria = Entry::entriesByBookCriteria($filterFormModel->book);
-
+                else
+                    $entryCriteria = new CDbCriteria;
+                    
                 // handle categories
                 $cat_ids = $filterFormModel->categories;
                 if (count($cat_ids) > 0) {
@@ -285,7 +287,7 @@ class EntryController extends Controller {
                     $resultCategories[$category->category_id] = $category->name;
                 }
             }
-            $filterFormModel->categories = array_keys($resultCategories);
+            //$filterFormModel->categories = array_keys($resultCategories);
         } else {
             $resultCategories = null;
         }

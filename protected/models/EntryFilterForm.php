@@ -62,7 +62,7 @@ class EntryFilterForm extends CFormModel {
         return array(
             //array('passage', 'required'),
             array('passage', 'validatePassage'),
-            array('book', 'required'),
+            //array('book', 'required'),
             array('book', 'validateBook'),
             array('startChapter,startVerse,endChapter,endVerse', 'numerical'),
             array('startChapter,endChapter', 'validateChapterInBook'),
@@ -79,27 +79,29 @@ class EntryFilterForm extends CFormModel {
      * @param array $params
      */
     public function validatePassage($attribute, $params) {
-        $matchesArray = array();
-        $match = preg_match($this->passageRegEx, $this->passage, $matchesArray);
-        if ($match) {
-            $this->passage = $matchesArray[0]; // the portion that matched
-            $this->book = $matchesArray['book'];
-            $this->startChapter = isset($matchesArray['start_chapter']) ? $matchesArray['start_chapter'] : null;
-            $this->startVerse = isset($matchesArray['start_verse']) ? $matchesArray['start_verse'] : null;
-            $this->endChapter = isset($matchesArray['end_chp_or_verse']) ? $matchesArray['end_chp_or_verse'] : null;
-            $this->endVerse = isset($matchesArray['end_verse']) ? $matchesArray['end_verse'] : null;
+        if ($this->passage != null) {
+            $matchesArray = array();
+            $match = preg_match($this->passageRegEx, $this->passage, $matchesArray);
+            if ($match) {
+                $this->passage = $matchesArray[0]; // the portion that matched
+                $this->book = $matchesArray['book'];
+                $this->startChapter = isset($matchesArray['start_chapter']) ? $matchesArray['start_chapter'] : null;
+                $this->startVerse = isset($matchesArray['start_verse']) ? $matchesArray['start_verse'] : null;
+                $this->endChapter = isset($matchesArray['end_chp_or_verse']) ? $matchesArray['end_chp_or_verse'] : null;
+                $this->endVerse = isset($matchesArray['end_verse']) ? $matchesArray['end_verse'] : null;
 
-            if (!$this->endChapter && !$this->endVerse) {
-                // e.g. John 1:2 => John 1:2-1:2
-                $this->endChapter = $this->startChapter;
-                $this->endVerse = $this->startVerse;
-            } else if (!$this->endVerse && $this->startVerse) {
-                // e.g. John 1:2-4 => John 1:2-1:4
-                $this->endVerse = $matchesArray['end_chp_or_verse'];
-                $this->endChapter = $this->startChapter;
+                if (!$this->endChapter && !$this->endVerse) {
+                    // e.g. John 1:2 => John 1:2-1:2
+                    $this->endChapter = $this->startChapter;
+                    $this->endVerse = $this->startVerse;
+                } else if (!$this->endVerse && $this->startVerse) {
+                    // e.g. John 1:2-4 => John 1:2-1:4
+                    $this->endVerse = $matchesArray['end_chp_or_verse'];
+                    $this->endChapter = $this->startChapter;
+                }
+            } else {
+                $this->addError($attribute, $attribute . ' is invalid (does not match regex).');
             }
-        } else {
-            $this->addError($attribute, $attribute . ' is invalid (does not match regex).');
         }
     }
 
@@ -111,11 +113,14 @@ class EntryFilterForm extends CFormModel {
      * @param <array> $params
      */
     public function validateBook($attribute, $params) {
-        $wholeBook = BibleVerse::isBookValid($this->book);
-        if ($wholeBook)
-            $this->book = $wholeBook;
-        else
-            $this->addError($attribute, $this->book . ' is not a valid book.');
+        if ($this->book != null)
+        {
+            $wholeBook = BibleVerse::isBookValid($this->book);
+            if ($wholeBook)
+                $this->book = $wholeBook;
+            else
+                $this->addError($attribute, $this->book . ' is not a valid book.');
+        }
     }
 
     /**
