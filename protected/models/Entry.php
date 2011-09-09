@@ -277,6 +277,21 @@ class Entry extends CActiveRecord {
         return $this->user->username;
     }
 
+    public function search() {
+        $criteria=new CDbCriteria;
+                
+        $criteria->compare('entry_text', $this->entry_text, true);
+        $criteria->compare('heading',$this->heading,true);
+        $criteria->compare('start_word',$this->start_word);
+        $criteria->compare('depth',$this->depth);
+        $criteria->compare('date_added',$this->date_added,true);
+        $criteria->compare('last_updated',$this->last_updated,true);
+
+        return new CActiveDataProvider(get_class($this), array(
+                'criteria' => $criteria,
+        ));
+    }
+
     /**
      * Auto-populates date fields in the record
      * @return boolean result of processing before saving

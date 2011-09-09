@@ -35,7 +35,10 @@ class EntryFilterForm extends CFormModel {
      * John 12:1-13:4
      */
 
-     private $passageText;
+     private $passageText;  // for displaying the verse text on search results page
+
+     // fields for filtering by category
+     public $categories;    // an array of id values
 
      public function getPassageText() {
          if (isset($this->book) && isset($this->startChapter) && isset($this->startVerse)) {

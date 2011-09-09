@@ -12,7 +12,7 @@ if ($deploy) {
 	$YII_DEBUG = false;
 } else {
 	$yii=dirname(__FILE__).'/../yii-1.1.8/framework/yii.php';
-	$config=dirname(__FILE__).'/protected/config/main_dev.php';
+	$config=dirname(__FILE__).'/protected/config/main_mba_dev.php';
 }
 
 // remove the following line when in production mode

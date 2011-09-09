@@ -222,8 +222,10 @@ class EntryController extends Controller {
         $filterFormModel = new EntryFilterForm();
 
         // check for search options
-        if (isset($_GET['EntryFilterForm']['passage'])) {
+        if (isset($_GET['EntryFilterForm'])) {
             $filterFormModel->attributes = $_GET['EntryFilterForm'];
+            $category_get = $_GET['EntryFilterForm']['categories'];
+            $filterFormModel->categories =  is_array($category_get) ? $category_get : null;
             if ($filterFormModel->validate()) {
                 // create a criteria to filter entries returned;
                 // form rules enforce that if endChapter is specified, startChapter
@@ -254,7 +256,38 @@ class EntryController extends Controller {
                 }
                 else    // only book specified
                     $entryCriteria = Entry::entriesByBookCriteria($filterFormModel->book);
+
+                // handle categories
+                $cat_ids = $filterFormModel->categories;
+                if (count($cat_ids) > 0) {
+                    // get entries for the category id
+                    $command = Yii::app()->db->createCommand();
+                    $command->selectDistinct('entry_id')
+                        ->from('tbl_entry_category')
+                        ->where(array('in','category_id', $cat_ids));
+                    $eids = array();
+                    foreach ($command->queryAll() as $entry_arr) {
+                        $eids[] = $entry_arr['entry_id'];
+                    }
+                    $entryCriteria->addInCondition('entry_id', $eids);
+                }
             }
+        }
+        
+        if (isset($entryCriteria) && $entryCriteria != null) {
+            $dataProvider->criteria = $entryCriteria;
+
+            // get categories for results
+            $entries = Entry::model()->findAll($entryCriteria);
+            $resultCategories = array();
+            foreach ($entries as $entry) {
+                foreach ($entry->categories as $category) {
+                    $resultCategories[$category->category_id] = $category->name;
+                }
+            }
+            $filterFormModel->categories = array_keys($resultCategories);
+        } else {
+            $resultCategories = null;
         }
 
         $dataProvider = new CActiveDataProvider('Entry', array(
@@ -262,14 +295,15 @@ class EntryController extends Controller {
                         'pageSize' => self::PAGE_SIZE,
                     ),
                 ));
-        if (isset($entryCriteria) && $entryCriteria != null)
+        if (isset($entryCriteria)) {
             $dataProvider->criteria = $entryCriteria;
-
+        }
         $dataProvider->sort->defaultOrder = 'last_updated DESC, date_added DESC, entry_id DESC';
 
         $this->render('index', array(
             'dataProvider' => $dataProvider,
             'filterFormModel' => $filterFormModel,
+            'resultCategories' => $resultCategories,
         ));
     }
 
