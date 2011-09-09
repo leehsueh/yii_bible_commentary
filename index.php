@@ -3,7 +3,7 @@
 // change the following paths if necessary
 //$yii=dirname(__FILE__).'/../yii_framework/yii.php';
 
-$deploy = false;
+$deploy = true;	// change this to true before committing, and to false to resume development
 
 // latest yii framework
 if ($deploy) {
