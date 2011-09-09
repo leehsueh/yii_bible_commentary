@@ -38,10 +38,10 @@ return array(
 			'allowAutoLogin'=>true,
 		),
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=leehsueh_bc',
+			'connectionString' => 'mysql:host=localhost;dbname=leehsueh_bctest',
 			'emulatePrepare' => true,
-			'username' => 'leehsueh_bc',
-			'password' => 'bcdev',
+			'username' => 'leehsueh_bctest',
+			'password' => 'bcdevtest',
 			'charset' => 'utf8',
             'tablePrefix' => 'tbl_',
 		),
