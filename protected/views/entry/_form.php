@@ -11,7 +11,7 @@
         <?php
             echo CHtml::listBox('Entry[categories]', null,
                 CHtml::listData(Category::model()->findAll(), 'category_id', 'name'),
-                array('size' => 8, 'multiple' => '', 'options' => $categoryOptions)); ?>
+                array('size' => 8, 'multiple' => 'true', )); ?>
         <?php echo CHtml::error($model, 'categories'); ?>
     </div>
 
