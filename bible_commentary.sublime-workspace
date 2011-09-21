@@ -70,6 +70,22 @@
 				"buffer_size": 671,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "/Users/leehsueh7/Development/yii_bible_commentary/protected/views/entry/_form.php",
+			"settings":
+			{
+				"buffer_size": 5012,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/leehsueh7/Development/yii_bible_commentary/.gitignore",
+			"settings":
+			{
+				"buffer_size": 689,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -89,6 +105,7 @@
 	{
 		"menu_visible": true,
 		"show_minimap": false,
+		"show_open_files": true,
 		"show_tabs": false,
 		"side_bar_visible": false,
 		"status_bar_visible": false
@@ -150,6 +167,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"categoryOptions",
 			"$categories",
 			"categories",
 			"verse_text",
@@ -173,7 +191,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 9,
 			"sheets":
 			[
 				{
@@ -225,7 +243,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0,
-						"translation.y": 4968,
+						"translation.y": 1767,
 						"zoom_level": 1
 					},
 					"type": "text"
@@ -393,6 +411,60 @@
 						"zoom_level": 1
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/leehsueh7/Development/yii_bible_commentary/protected/views/entry/_form.php",
+					"settings":
+					{
+						"buffer_size": 5012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								5012
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/leehsueh7/Development/yii_bible_commentary/.gitignore",
+					"settings":
+					{
+						"buffer_size": 689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								258,
+								258
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
 				}
 			]
 		}
@@ -450,6 +522,7 @@
 		"width": 0
 	},
 	"show_minimap": true,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 222.94140625,
