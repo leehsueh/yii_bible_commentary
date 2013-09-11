@@ -8,8 +8,8 @@ protected/runtime/*
 protected/data/importing_initial_data/bible13.txt
 protected/data/importing_initial_data/bible13_mysql.sql
 protected/data/backups/
-bible_commentary.sublime-workspace
-bible_commentary.sublime-project
+*.sublime-workspace
+*.sublime-project
 
 # Compiled source #
 ###################

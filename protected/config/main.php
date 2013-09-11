@@ -41,7 +41,7 @@ return array(
 			'connectionString' => 'mysql:host=localhost;dbname=leehsueh_bc',
 			'emulatePrepare' => true,
 			'username' => 'leehsueh_bc',
-			'password' => 'bcdev',
+			'password' => 'trunksu',
 			'charset' => 'utf8',
             'tablePrefix' => 'tbl_',
 		),
